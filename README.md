@@ -176,9 +176,11 @@ Note: The reporting dashboard uses Streamlit. The 07_PowerBI folder is a legacy 
 
 ## API Documentation
 
-Base URL: http://127.0.0.1:8000
+Base URL (Local): `http://127.0.0.1:8000`
 
-API documentation: http://127.0.0.1:8000/docs
+API Documentation (Local): `http://127.0.0.1:8000/docs`
+
+Note: These URLs are accessible only when the FastAPI backend is running locally. Public deployment is planned.
 
 ### Customer API
 | Method | Endpoint | Purpose |
@@ -214,8 +216,9 @@ Open a separate PowerShell terminal and run:
 & "C:\Users\user\Solar360\09_Python\api\.venv\Scripts\python.exe" -m streamlit run "C:\Users\user\Solar360\09_Python\dashboard\app.py"
 ```
 
-Open the dashboard:
-http://localhost:8501
+Dashboard URL (Local): `http://localhost:8501`
+
+Note: This URL is accessible only when the Streamlit dashboard is running locally. Public deployment is planned.
 
 Prerequisites: Python, MySQL Server, project dependencies, and a configured local .env file.
 Do not commit database credentials or the .env file to GitHub.
@@ -295,3 +298,4 @@ flowchart TD
 ```
 
 Note: Customer and Lead APIs are implemented. The dashboard reads the available business datasets directly from MySQL.
+
