@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net">
+  <diagram id="IH1_om1j3Gg9jOGmbcUw" name="Page-2">
+    <mxGraphModel dx="1328" dy="1570" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xe8LBngstsZBmis-eqzm-13" edge="1" parent="1" source="xe8LBngstsZBmis-eqzm-2" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;" target="xe8LBngstsZBmis-eqzm-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xe8LBngstsZBmis-eqzm-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#CCE5FF;" value="Customer submits enquiry" vertex="1">
+          <mxGeometry height="77" width="120" x="2" y="-164" as="geometry" />
+        </mxCell>
+        <mxCell id="xe8LBngstsZBmis-eqzm-4" edge="1" parent="1" source="xe8LBngstsZBmis-eqzm-3" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="xe8LBngstsZBmis-eqzm-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xe8LBngstsZBmis-eqzm-8" edge="1" parent="1" source="xe8LBngstsZBmis-eqzm-3" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;" target="xe8LBngstsZBmis-eqzm-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xe8LBngstsZBmis-eqzm-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#CCE5FF;" value="Sales team receives enquiry" vertex="1">
+          <mxGeometry height="77" width="120" x="2" y="-50" as="geometry" />
+        </mxCell>
+        <mxCell id="xe8LBngstsZBmis-eqzm-12" edge="1" parent="1" source="xe8LBngstsZBmis-eqzm-6" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;" target="xe8LBngstsZBmis-eqzm-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xe8LBngstsZBmis-eqzm-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#FFFF99;" value="Manual Excel Lead Entry" vertex="1">
+          <mxGeometry height="77" width="120" x="2" y="68" as="geometry" />
+        </mxCell>
+        <mxCell id="xe8LBngstsZBmis-eqzm-15" edge="1" parent="1" source="xe8LBngstsZBmis-eqzm-11" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;" target="xe8LBngstsZBmis-eqzm-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xe8LBngstsZBmis-eqzm-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#FFFF99;" value="Manual Lead Assignment and Follow-up" vertex="1">
+          <mxGeometry height="77" width="120" x="2" y="184" as="geometry" />
+        </mxCell>
+        <mxCell id="xe8LBngstsZBmis-eqzm-17" edge="1" parent="1" source="xe8LBngstsZBmis-eqzm-14" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;" target="xe8LBngstsZBmis-eqzm-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xe8LBngstsZBmis-eqzm-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#CCE5FF;" value="Site Inspection Scheduling" vertex="1">
+          <mxGeometry height="77" width="120" x="2" y="299" as="geometry" />
+        </mxCell>
+        <mxCell id="xe8LBngstsZBmis-eqzm-19" edge="1" parent="1" source="xe8LBngstsZBmis-eqzm-16" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;" target="xe8LBngstsZBmis-eqzm-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xe8LBngstsZBmis-eqzm-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#CCE5FF;" value="Quotation Preparation and Approval" vertex="1">
+          <mxGeometry height="77" width="120" x="2" y="412" as="geometry" />
+        </mxCell>
+        <mxCell id="xe8LBngstsZBmis-eqzm-21" edge="1" parent="1" source="xe8LBngstsZBmis-eqzm-18" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;" target="xe8LBngstsZBmis-eqzm-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xe8LBngstsZBmis-eqzm-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#CCE5FF;" value="Installation Scheduling and Execution" vertex="1">
+          <mxGeometry height="77" width="120" x="2" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="xe8LBngstsZBmis-eqzm-23" edge="1" parent="1" source="xe8LBngstsZBmis-eqzm-20" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;" target="xe8LBngstsZBmis-eqzm-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xe8LBngstsZBmis-eqzm-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#FF9999;" value="Manual Customer Support" vertex="1">
+          <mxGeometry height="77" width="120" x="2" y="638" as="geometry" />
+        </mxCell>
+        <mxCell id="xe8LBngstsZBmis-eqzm-27" edge="1" parent="1" source="xe8LBngstsZBmis-eqzm-22" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;" target="xe8LBngstsZBmis-eqzm-26" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xe8LBngstsZBmis-eqzm-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#FF9999;" value="Manual Reporting and Management Review" vertex="1">
+          <mxGeometry height="77" width="120" x="2" y="751" as="geometry" />
+        </mxCell>
+        <mxCell id="xe8LBngstsZBmis-eqzm-25" edge="1" parent="1" source="xe8LBngstsZBmis-eqzm-24" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;" target="xe8LBngstsZBmis-eqzm-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xe8LBngstsZBmis-eqzm-24" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#CCFF99;" value="START" vertex="1">
+          <mxGeometry height="60" width="100" x="12" y="-273" as="geometry" />
+        </mxCell>
+        <mxCell id="xe8LBngstsZBmis-eqzm-26" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#CCFF99;" value="END" vertex="1">
+          <mxGeometry height="60" width="100" x="12" y="864" as="geometry" />
+        </mxCell>
+        <mxCell id="xe8LBngstsZBmis-eqzm-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=31;fontStyle=1;fontFamily=Helvetica;fontColor=#000066;" value="Solar360 – Current Business Process (As-Is)" vertex="1">
+          <mxGeometry height="63" width="669" x="-272.5" y="-379" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

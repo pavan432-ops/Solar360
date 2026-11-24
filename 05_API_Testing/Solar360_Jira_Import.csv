@@ -1,0 +1,201 @@
+﻿"Project key","Issue Type","Summary","Description","Priority","Labels"
+"SCRUM","Task","Create customer database table","Backlog ID: PB001
+Story ID: US001
+Module: Customer Management
+Original Priority: Must Have
+Story Points: 3
+Planned Sprint: Sprint 1
+Dependency: None
+Original Status: To Do","High","solar360"
+"SCRUM","Task","Develop customer registration form","Backlog ID: PB002
+Story ID: US001
+Module: Customer Management
+Original Priority: Must Have
+Story Points: 5
+Planned Sprint: Sprint 1
+Dependency: PB001
+Original Status: To Do","High","solar360"
+"SCRUM","Task","Implement customer field validation","Backlog ID: PB003
+Story ID: US001
+Module: Customer Management
+Original Priority: Must Have
+Story Points: 3
+Planned Sprint: Sprint 1
+Dependency: PB002
+Original Status: To Do","High","solar360"
+"SCRUM","Task","Create lead database table","Backlog ID: PB004
+Story ID: US002
+Module: Lead Management
+Original Priority: Must Have
+Story Points: 3
+Planned Sprint: Sprint 1
+Dependency: PB001
+Original Status: To Do","High","solar360"
+"SCRUM","Task","Develop lead creation functionality","Backlog ID: PB005
+Story ID: US002
+Module: Lead Management
+Original Priority: Must Have
+Story Points: 5
+Planned Sprint: Sprint 1
+Dependency: PB004
+Original Status: To Do","High","solar360"
+"SCRUM","Task","Generate unique Lead ID","Backlog ID: PB006
+Story ID: US002
+Module: Lead Management
+Original Priority: Must Have
+Story Points: 2
+Planned Sprint: Sprint 1
+Dependency: PB004
+Original Status: To Do","High","solar360"
+"SCRUM","Task","Implement duplicate lead detection using contact number","Backlog ID: PB007
+Story ID: US003
+Module: Lead Management
+Original Priority: Must Have
+Story Points: 5
+Planned Sprint: Sprint 2
+Dependency: PB005
+Original Status: To Do","High","solar360"
+"SCRUM","Task","Develop lead assignment functionality","Backlog ID: PB008
+Story ID: US004
+Module: Lead Assignment
+Original Priority: Must Have
+Story Points: 5
+Planned Sprint: Sprint 2
+Dependency: PB005
+Original Status: To Do","High","solar360"
+"SCRUM","Task","Maintain active lead ownership","Backlog ID: PB009
+Story ID: US004
+Module: Lead Assignment
+Original Priority: Must Have
+Story Points: 3
+Planned Sprint: Sprint 2
+Dependency: PB008
+Original Status: To Do","High","solar360"
+"SCRUM","Task","Create follow-up database table","Backlog ID: PB010
+Story ID: US005
+Module: Follow-up Management
+Original Priority: Must Have
+Story Points: 3
+Planned Sprint: Sprint 2
+Dependency: PB004
+Original Status: To Do","High","solar360"
+"SCRUM","Task","Develop follow-up entry functionality","Backlog ID: PB011
+Story ID: US005
+Module: Follow-up Management
+Original Priority: Must Have
+Story Points: 5
+Planned Sprint: Sprint 2
+Dependency: PB010
+Original Status: To Do","High","solar360"
+"SCRUM","Task","Display follow-up history","Backlog ID: PB012
+Story ID: US005
+Module: Follow-up Management
+Original Priority: Must Have
+Story Points: 3
+Planned Sprint: Sprint 2
+Dependency: PB011
+Original Status: To Do","High","solar360"
+"SCRUM","Task","Identify overdue follow-ups","Backlog ID: PB013
+Story ID: US006
+Module: Follow-up Management
+Original Priority: Should Have
+Story Points: 5
+Planned Sprint: Sprint 3
+Dependency: PB011
+Original Status: To Do","Medium","solar360"
+"SCRUM","Task","Develop overdue follow-up report","Backlog ID: PB014
+Story ID: US006
+Module: Follow-up Management
+Original Priority: Should Have
+Story Points: 3
+Planned Sprint: Sprint 3
+Dependency: PB013
+Original Status: To Do","Medium","solar360"
+"SCRUM","Task","Create site inspection database table","Backlog ID: PB015
+Story ID: US007
+Module: Site Inspection
+Original Priority: Must Have
+Story Points: 3
+Planned Sprint: Sprint 3
+Dependency: PB004
+Original Status: To Do","High","solar360"
+"SCRUM","Task","Develop inspection scheduling functionality","Backlog ID: PB016
+Story ID: US007
+Module: Site Inspection
+Original Priority: Must Have
+Story Points: 5
+Planned Sprint: Sprint 3
+Dependency: PB015
+Original Status: To Do","High","solar360"
+"SCRUM","Task","Implement inspection status tracking","Backlog ID: PB017
+Story ID: US007
+Module: Site Inspection
+Original Priority: Must Have
+Story Points: 3
+Planned Sprint: Sprint 3
+Dependency: PB016
+Original Status: To Do","High","solar360"
+"SCRUM","Task","Create installation database table","Backlog ID: PB018
+Story ID: US008
+Module: Installation Management
+Original Priority: Must Have
+Story Points: 3
+Planned Sprint: Sprint 3
+Dependency: PB015
+Original Status: To Do","High","solar360"
+"SCRUM","Task","Develop installation scheduling and status updates","Backlog ID: PB019
+Story ID: US008
+Module: Installation Management
+Original Priority: Must Have
+Story Points: 5
+Planned Sprint: Sprint 3
+Dependency: PB018
+Original Status: To Do","High","solar360"
+"SCRUM","Task","Create support ticket database table","Backlog ID: PB020
+Story ID: US009
+Module: Customer Support
+Original Priority: Must Have
+Story Points: 3
+Planned Sprint: Sprint 4
+Dependency: PB001
+Original Status: To Do","High","solar360"
+"SCRUM","Task","Develop support ticket creation and tracking","Backlog ID: PB021
+Story ID: US009
+Module: Customer Support
+Original Priority: Must Have
+Story Points: 5
+Planned Sprint: Sprint 4
+Dependency: PB020
+Original Status: To Do","High","solar360"
+"SCRUM","Task","Implement ticket resolution date validation","Backlog ID: PB022
+Story ID: US009
+Module: Customer Support
+Original Priority: Must Have
+Story Points: 2
+Planned Sprint: Sprint 4
+Dependency: PB021
+Original Status: To Do","High","solar360"
+"SCRUM","Task","Create SQL queries for business KPIs","Backlog ID: PB023
+Story ID: US010
+Module: Management Reporting
+Original Priority: Should Have
+Story Points: 5
+Planned Sprint: Sprint 4
+Dependency: PB005;PB016;PB019;PB021
+Original Status: To Do","Medium","solar360"
+"SCRUM","Task","Develop Power BI management dashboard","Backlog ID: PB024
+Story ID: US010
+Module: Management Reporting
+Original Priority: Should Have
+Story Points: 8
+Planned Sprint: Sprint 4
+Dependency: PB023
+Original Status: To Do","Medium","solar360"
+"SCRUM","Task","Validate dashboard KPIs against SQL results","Backlog ID: PB025
+Story ID: US010
+Module: Management Reporting
+Original Priority: Should Have
+Story Points: 3
+Planned Sprint: Sprint 4
+Dependency: PB024
+Original Status: To Do","Medium","solar360"

@@ -1,0 +1,13 @@
+Rule_ID,Module,Business_Rule,Reason,Priority,Status
+BR001,Lead Management,Every lead must have a unique Lead ID,Prevent duplicate lead records,High,Draft
+BR002,Lead Management,A lead can have only one active sales executive,Prevent duplicate customer contact,High,Draft
+BR003,Lead Management,Every new lead must have a lead source,Track enquiry channels,High,Draft
+BR004,Lead Management,Every assigned lead must have a follow-up date,Reduce missed follow-ups,High,Draft
+BR005,Lead Management,Converted leads must have a conversion date,Track lead conversion,Medium,Draft
+BR006,Site Inspection,An inspection must be linked to an existing lead,Maintain data consistency,High,Draft
+BR007,Site Inspection,An inspection must have a scheduled date,Enable inspection planning,High,Draft
+BR008,Installation,An installation can be scheduled only after quotation approval,Prevent unauthorized scheduling,High,Draft
+BR009,Installation,Installation status must follow defined workflow stages,Track installation progress,High,Draft
+BR010,Support,Every support ticket must have a unique Ticket ID,Track customer complaints,High,Draft
+BR011,Support,Resolved tickets must have a resolution date,Measure resolution time,Medium,Draft
+BR012,Customer Management,Customer contact number is mandatory,Enable customer communication,High,Draft

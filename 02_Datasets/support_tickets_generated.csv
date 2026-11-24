@@ -1,0 +1,796 @@
+customer_id,installation_id,ticket_category,priority,ticket_status,issue_description,assigned_to,created_at,resolution_date,resolution_notes
+1310,141,Technical Issue,Medium,Resolved,Synthetic technical issue support issue,3,2026-07-13,2026-07-16,Synthetic resolution details
+865,48,Technical Issue,Medium,Resolved,Synthetic technical issue support issue,3,2026-07-29,2026-08-05,Synthetic resolution details
+1331,,Billing,Medium,Resolved,Synthetic billing support issue,1,2025-01-07,2025-02-01,Synthetic resolution details
+1430,143,Technical Issue,Medium,Resolved,Synthetic technical issue support issue,2,2025-04-15,2025-04-18,Synthetic resolution details
+199,177,Other,Medium,Open,Synthetic other support issue,3,2026-04-16,,
+256,,Billing,Low,In Progress,Synthetic billing support issue,3,2026-10-06,,
+1814,,Other,Low,Open,Synthetic other support issue,1,2026-11-09,,
+1584,41,Technical Issue,High,In Progress,Synthetic technical issue support issue,3,2026-04-10,,
+1709,190,Maintenance,Medium,In Progress,Synthetic maintenance support issue,1,2026-10-26,,
+1248,,Other,High,Open,Synthetic other support issue,2,2026-01-24,,
+1896,,Other,Medium,In Progress,Synthetic other support issue,1,2025-02-27,,
+1684,162,Billing,Medium,Open,Synthetic billing support issue,3,2026-08-04,,
+645,256,Billing,High,Resolved,Synthetic billing support issue,1,2025-05-27,2025-06-05,Synthetic resolution details
+506,,Other,Medium,Resolved,Synthetic other support issue,2,2026-08-21,2026-09-03,Synthetic resolution details
+450,,Technical Issue,Medium,Open,Synthetic technical issue support issue,1,2025-02-18,,
+314,,Billing,Medium,In Progress,Synthetic billing support issue,2,2026-09-03,,
+1084,284,Installation,High,Open,Synthetic installation support issue,2,2026-07-04,,
+1575,,Installation,Medium,Open,Synthetic installation support issue,3,2025-01-04,,
+1794,,Other,High,On Hold,Synthetic other support issue,3,2025-04-19,,
+612,,Other,Medium,Open,Synthetic other support issue,3,2025-06-15,,
+1953,,Other,Critical,Resolved,Synthetic other support issue,1,2026-05-16,2026-05-17,Synthetic resolution details
+1903,158,Technical Issue,Low,Closed,Synthetic technical issue support issue,3,2025-03-22,2025-03-25,Synthetic resolution details
+996,,Other,High,Open,Synthetic other support issue,3,2026-05-02,,
+339,217,Technical Issue,Critical,Resolved,Synthetic technical issue support issue,2,2025-07-25,2025-08-17,Synthetic resolution details
+818,,Maintenance,Medium,On Hold,Synthetic maintenance support issue,1,2025-05-04,,
+461,11,Other,Medium,Resolved,Synthetic other support issue,3,2025-01-08,2025-01-11,Synthetic resolution details
+1293,35,Installation,High,Open,Synthetic installation support issue,2,2025-09-01,,
+1371,277,Technical Issue,High,Closed,Synthetic technical issue support issue,1,2026-08-14,2026-08-30,Synthetic resolution details
+1607,209,Technical Issue,Low,Resolved,Synthetic technical issue support issue,2,2025-12-29,2026-01-12,Synthetic resolution details
+957,,Installation,High,Closed,Synthetic installation support issue,2,2025-04-11,2025-04-13,Synthetic resolution details
+1492,56,Technical Issue,Low,On Hold,Synthetic technical issue support issue,2,2025-05-24,,
+376,128,Installation,Medium,Closed,Synthetic installation support issue,1,2026-07-18,2026-07-22,Synthetic resolution details
+1336,,Installation,Critical,Closed,Synthetic installation support issue,2,2025-08-31,2025-09-06,Synthetic resolution details
+995,206,Installation,Low,Open,Synthetic installation support issue,2,2026-02-04,,
+1898,,Billing,Medium,Resolved,Synthetic billing support issue,3,2026-07-24,2026-08-15,Synthetic resolution details
+997,152,Technical Issue,Critical,Resolved,Synthetic technical issue support issue,3,2026-07-10,2026-07-12,Synthetic resolution details
+643,300,Billing,Medium,Closed,Synthetic billing support issue,3,2025-06-11,2025-06-13,Synthetic resolution details
+165,,Installation,Medium,Resolved,Synthetic installation support issue,1,2025-08-29,2025-09-11,Synthetic resolution details
+1929,,Technical Issue,Medium,Open,Synthetic technical issue support issue,2,2025-03-25,,
+1347,268,Maintenance,Critical,Open,Synthetic maintenance support issue,1,2025-11-18,,
+544,154,Billing,Medium,Resolved,Synthetic billing support issue,2,2025-03-16,2025-03-17,Synthetic resolution details
+1273,,Installation,Low,Open,Synthetic installation support issue,1,2025-09-29,,
+1912,36,Technical Issue,Medium,Open,Synthetic technical issue support issue,3,2026-07-11,,
+620,,Other,Low,Closed,Synthetic other support issue,3,2025-11-03,2025-12-03,Synthetic resolution details
+213,,Technical Issue,Medium,Closed,Synthetic technical issue support issue,2,2026-07-21,2026-07-26,Synthetic resolution details
+578,,Maintenance,Medium,Resolved,Synthetic maintenance support issue,2,2025-09-28,2025-10-15,Synthetic resolution details
+515,,Installation,Low,In Progress,Synthetic installation support issue,1,2025-10-11,,
+8,67,Maintenance,Low,In Progress,Synthetic maintenance support issue,3,2026-03-14,,
+20,77,Other,Low,In Progress,Synthetic other support issue,1,2026-07-20,,
+881,158,Maintenance,High,Resolved,Synthetic maintenance support issue,2,2025-02-10,2025-03-11,Synthetic resolution details
+431,,Installation,Medium,Resolved,Synthetic installation support issue,3,2026-02-21,2026-03-13,Synthetic resolution details
+317,,Technical Issue,High,Closed,Synthetic technical issue support issue,2,2025-07-01,2025-07-30,Synthetic resolution details
+51,171,Billing,High,Closed,Synthetic billing support issue,1,2025-09-12,2025-09-21,Synthetic resolution details
+1613,,Billing,High,Closed,Synthetic billing support issue,2,2025-08-16,2025-08-23,Synthetic resolution details
+717,117,Technical Issue,Low,Open,Synthetic technical issue support issue,2,2025-12-03,,
+1771,143,Maintenance,Medium,In Progress,Synthetic maintenance support issue,2,2026-07-04,,
+1924,134,Technical Issue,Medium,Closed,Synthetic technical issue support issue,3,2025-02-09,2025-02-13,Synthetic resolution details
+890,161,Billing,Medium,On Hold,Synthetic billing support issue,3,2026-01-30,,
+390,224,Installation,Medium,Closed,Synthetic installation support issue,2,2025-07-21,2025-08-02,Synthetic resolution details
+144,,Maintenance,Medium,Resolved,Synthetic maintenance support issue,2,2025-05-08,2025-06-01,Synthetic resolution details
+1039,210,Maintenance,Medium,In Progress,Synthetic maintenance support issue,1,2025-05-11,,
+862,,Billing,High,Closed,Synthetic billing support issue,2,2026-09-23,2026-10-12,Synthetic resolution details
+832,1,Maintenance,Medium,In Progress,Synthetic maintenance support issue,3,2026-08-17,,
+1341,227,Billing,High,On Hold,Synthetic billing support issue,3,2025-06-23,,
+174,172,Installation,High,Resolved,Synthetic installation support issue,1,2025-11-14,2025-11-22,Synthetic resolution details
+302,126,Billing,Medium,Resolved,Synthetic billing support issue,3,2026-04-12,2026-04-26,Synthetic resolution details
+1179,197,Billing,Medium,Open,Synthetic billing support issue,1,2025-01-06,,
+1595,91,Other,Medium,Resolved,Synthetic other support issue,1,2025-05-05,2025-05-20,Synthetic resolution details
+1642,272,Other,Medium,Closed,Synthetic other support issue,3,2026-03-30,2026-04-19,Synthetic resolution details
+1827,281,Billing,High,Resolved,Synthetic billing support issue,2,2026-05-02,2026-05-17,Synthetic resolution details
+1540,142,Other,Medium,Open,Synthetic other support issue,1,2026-03-27,,
+1462,140,Maintenance,Medium,On Hold,Synthetic maintenance support issue,1,2025-05-22,,
+474,79,Technical Issue,Low,In Progress,Synthetic technical issue support issue,2,2026-07-10,,
+852,216,Billing,Critical,Resolved,Synthetic billing support issue,3,2025-01-21,2025-02-18,Synthetic resolution details
+780,181,Maintenance,High,Closed,Synthetic maintenance support issue,3,2026-03-06,2026-03-24,Synthetic resolution details
+1505,113,Billing,Medium,In Progress,Synthetic billing support issue,2,2025-01-30,,
+689,,Billing,High,Closed,Synthetic billing support issue,3,2025-05-11,2025-05-31,Synthetic resolution details
+56,,Other,Medium,Open,Synthetic other support issue,2,2026-10-21,,
+278,,Technical Issue,Low,In Progress,Synthetic technical issue support issue,2,2025-08-05,,
+670,195,Maintenance,High,Closed,Synthetic maintenance support issue,1,2025-09-16,2025-10-13,Synthetic resolution details
+964,277,Installation,Critical,In Progress,Synthetic installation support issue,1,2026-10-28,,
+1600,,Installation,High,Closed,Synthetic installation support issue,1,2025-07-24,2025-08-20,Synthetic resolution details
+1273,65,Billing,High,Resolved,Synthetic billing support issue,3,2025-08-12,2025-08-27,Synthetic resolution details
+525,,Technical Issue,Medium,Closed,Synthetic technical issue support issue,1,2025-04-28,2025-05-23,Synthetic resolution details
+1976,297,Installation,Critical,Resolved,Synthetic installation support issue,3,2026-01-20,2026-02-02,Synthetic resolution details
+407,125,Installation,High,In Progress,Synthetic installation support issue,1,2026-09-07,,
+1631,,Installation,Medium,In Progress,Synthetic installation support issue,1,2026-01-15,,
+1037,,Installation,High,Closed,Synthetic installation support issue,2,2025-04-19,2025-05-03,Synthetic resolution details
+1302,,Billing,High,In Progress,Synthetic billing support issue,3,2026-06-19,,
+554,,Other,High,On Hold,Synthetic other support issue,2,2026-08-30,,
+661,,Installation,Medium,On Hold,Synthetic installation support issue,3,2026-04-21,,
+1250,,Maintenance,Low,Closed,Synthetic maintenance support issue,1,2025-07-06,2025-07-22,Synthetic resolution details
+727,,Maintenance,Medium,Resolved,Synthetic maintenance support issue,1,2025-10-10,2025-10-28,Synthetic resolution details
+1059,,Installation,Medium,In Progress,Synthetic installation support issue,1,2026-07-23,,
+1415,252,Billing,High,Open,Synthetic billing support issue,2,2025-08-15,,
+1417,298,Maintenance,Medium,On Hold,Synthetic maintenance support issue,3,2026-03-12,,
+1128,233,Maintenance,Medium,Open,Synthetic maintenance support issue,2,2025-07-17,,
+245,,Technical Issue,Low,Resolved,Synthetic technical issue support issue,3,2025-10-11,2025-11-04,Synthetic resolution details
+1557,145,Installation,High,In Progress,Synthetic installation support issue,1,2026-01-05,,
+620,274,Technical Issue,Medium,Closed,Synthetic technical issue support issue,3,2026-07-21,2026-07-31,Synthetic resolution details
+1934,252,Installation,High,Resolved,Synthetic installation support issue,2,2026-04-26,2026-05-12,Synthetic resolution details
+698,27,Maintenance,Critical,On Hold,Synthetic maintenance support issue,2,2025-03-08,,
+1008,28,Technical Issue,Low,Resolved,Synthetic technical issue support issue,1,2025-11-08,2025-11-11,Synthetic resolution details
+243,214,Other,Medium,Resolved,Synthetic other support issue,2,2026-06-20,2026-07-03,Synthetic resolution details
+1861,220,Maintenance,Medium,Open,Synthetic maintenance support issue,1,2025-04-12,,
+1282,42,Technical Issue,Medium,Resolved,Synthetic technical issue support issue,2,2025-06-10,2025-06-11,Synthetic resolution details
+923,,Billing,Medium,Open,Synthetic billing support issue,3,2025-10-17,,
+1761,120,Maintenance,High,Resolved,Synthetic maintenance support issue,1,2026-11-09,2026-12-05,Synthetic resolution details
+871,116,Technical Issue,Critical,Closed,Synthetic technical issue support issue,1,2025-03-15,2025-03-17,Synthetic resolution details
+1624,292,Maintenance,Medium,On Hold,Synthetic maintenance support issue,3,2025-11-08,,
+825,,Other,Medium,In Progress,Synthetic other support issue,1,2026-09-05,,
+1822,166,Other,Medium,Open,Synthetic other support issue,3,2026-08-13,,
+1948,138,Other,Low,Resolved,Synthetic other support issue,3,2026-04-27,2026-05-14,Synthetic resolution details
+906,,Technical Issue,Critical,In Progress,Synthetic technical issue support issue,1,2026-05-19,,
+963,171,Maintenance,High,Closed,Synthetic maintenance support issue,3,2025-12-04,2025-12-18,Synthetic resolution details
+1015,206,Other,Low,Open,Synthetic other support issue,2,2025-09-16,,
+238,,Billing,High,Closed,Synthetic billing support issue,3,2025-01-02,2025-01-24,Synthetic resolution details
+947,97,Other,Medium,Resolved,Synthetic other support issue,1,2026-10-03,2026-10-18,Synthetic resolution details
+417,68,Maintenance,Medium,Resolved,Synthetic maintenance support issue,3,2025-05-05,2025-05-06,Synthetic resolution details
+1247,,Technical Issue,Medium,Open,Synthetic technical issue support issue,1,2026-02-22,,
+461,,Installation,Medium,Open,Synthetic installation support issue,2,2025-06-07,,
+1911,,Other,High,In Progress,Synthetic other support issue,2,2026-05-10,,
+500,75,Billing,Low,Resolved,Synthetic billing support issue,1,2025-05-20,2025-06-17,Synthetic resolution details
+566,,Billing,Medium,Resolved,Synthetic billing support issue,1,2025-10-01,2025-10-28,Synthetic resolution details
+580,,Other,Medium,Resolved,Synthetic other support issue,3,2025-06-02,2025-06-17,Synthetic resolution details
+992,283,Other,Medium,Closed,Synthetic other support issue,1,2025-07-13,2025-08-05,Synthetic resolution details
+1172,211,Installation,Medium,On Hold,Synthetic installation support issue,2,2026-01-26,,
+1360,,Technical Issue,Medium,Open,Synthetic technical issue support issue,3,2026-05-30,,
+680,,Billing,Low,Closed,Synthetic billing support issue,1,2025-01-16,2025-02-09,Synthetic resolution details
+840,,Technical Issue,Low,Resolved,Synthetic technical issue support issue,3,2025-09-29,2025-10-10,Synthetic resolution details
+1419,42,Maintenance,High,Closed,Synthetic maintenance support issue,3,2026-01-25,2026-02-05,Synthetic resolution details
+1472,,Billing,High,Open,Synthetic billing support issue,1,2025-03-12,,
+1293,,Maintenance,Critical,Resolved,Synthetic maintenance support issue,3,2026-03-21,2026-03-25,Synthetic resolution details
+1442,,Billing,Low,In Progress,Synthetic billing support issue,1,2025-01-30,,
+665,,Maintenance,Medium,In Progress,Synthetic maintenance support issue,3,2025-09-08,,
+844,93,Technical Issue,Low,Resolved,Synthetic technical issue support issue,3,2026-01-27,2026-02-16,Synthetic resolution details
+494,299,Technical Issue,Medium,Resolved,Synthetic technical issue support issue,3,2026-04-16,2026-04-25,Synthetic resolution details
+20,,Billing,Critical,Resolved,Synthetic billing support issue,2,2025-06-11,2025-06-14,Synthetic resolution details
+1936,301,Maintenance,Medium,In Progress,Synthetic maintenance support issue,2,2025-09-14,,
+1732,197,Billing,Low,In Progress,Synthetic billing support issue,3,2026-01-03,,
+606,,Maintenance,Low,Closed,Synthetic maintenance support issue,1,2026-02-10,2026-02-19,Synthetic resolution details
+1160,,Installation,Critical,Resolved,Synthetic installation support issue,1,2025-10-21,2025-11-15,Synthetic resolution details
+1244,,Technical Issue,Medium,Resolved,Synthetic technical issue support issue,1,2026-11-07,2026-11-29,Synthetic resolution details
+1287,21,Maintenance,High,Open,Synthetic maintenance support issue,3,2026-01-09,,
+270,152,Maintenance,High,Open,Synthetic maintenance support issue,3,2025-05-16,,
+1795,,Other,Medium,In Progress,Synthetic other support issue,2,2025-06-18,,
+1872,,Billing,Critical,In Progress,Synthetic billing support issue,1,2025-12-13,,
+960,,Technical Issue,High,Open,Synthetic technical issue support issue,3,2026-02-11,,
+750,203,Installation,Medium,Open,Synthetic installation support issue,3,2026-01-13,,
+1534,,Other,Medium,Resolved,Synthetic other support issue,3,2026-01-16,2026-01-20,Synthetic resolution details
+479,288,Maintenance,Critical,Open,Synthetic maintenance support issue,3,2025-03-06,,
+1688,155,Billing,Low,Open,Synthetic billing support issue,2,2025-02-08,,
+1009,121,Other,Low,On Hold,Synthetic other support issue,2,2026-07-08,,
+1203,,Technical Issue,High,Resolved,Synthetic technical issue support issue,2,2026-05-17,2026-06-06,Synthetic resolution details
+1924,,Installation,High,Open,Synthetic installation support issue,1,2026-04-01,,
+1752,189,Other,Critical,Resolved,Synthetic other support issue,2,2025-03-04,2025-03-17,Synthetic resolution details
+389,,Billing,Low,Open,Synthetic billing support issue,3,2026-10-17,,
+1989,171,Technical Issue,Critical,Resolved,Synthetic technical issue support issue,3,2025-07-30,2025-08-02,Synthetic resolution details
+425,120,Maintenance,High,Resolved,Synthetic maintenance support issue,2,2026-09-03,2026-09-04,Synthetic resolution details
+1759,,Technical Issue,Medium,Resolved,Synthetic technical issue support issue,1,2025-04-23,2025-05-15,Synthetic resolution details
+270,122,Other,Medium,Open,Synthetic other support issue,1,2025-02-23,,
+1520,59,Installation,Medium,Resolved,Synthetic installation support issue,1,2026-06-10,2026-06-29,Synthetic resolution details
+926,23,Other,Medium,Resolved,Synthetic other support issue,2,2025-02-01,2025-02-03,Synthetic resolution details
+1736,56,Billing,High,In Progress,Synthetic billing support issue,2,2025-03-24,,
+1246,65,Maintenance,Medium,Resolved,Synthetic maintenance support issue,3,2025-11-29,2025-12-12,Synthetic resolution details
+1087,259,Other,Medium,Resolved,Synthetic other support issue,3,2025-04-28,2025-05-26,Synthetic resolution details
+1334,,Other,High,Open,Synthetic other support issue,1,2026-04-08,,
+848,233,Billing,Medium,Open,Synthetic billing support issue,2,2026-03-14,,
+1363,79,Billing,Low,Closed,Synthetic billing support issue,1,2025-04-06,2025-04-20,Synthetic resolution details
+1525,,Technical Issue,Medium,Resolved,Synthetic technical issue support issue,2,2026-07-30,2026-08-17,Synthetic resolution details
+1373,182,Billing,High,Resolved,Synthetic billing support issue,2,2025-10-22,2025-11-11,Synthetic resolution details
+721,260,Technical Issue,Low,On Hold,Synthetic technical issue support issue,2,2025-04-21,,
+1732,59,Maintenance,Medium,Closed,Synthetic maintenance support issue,3,2026-07-29,2026-08-23,Synthetic resolution details
+1257,,Other,Low,Closed,Synthetic other support issue,1,2025-10-01,2025-10-02,Synthetic resolution details
+560,,Maintenance,Critical,In Progress,Synthetic maintenance support issue,1,2025-07-05,,
+1160,,Installation,Low,Resolved,Synthetic installation support issue,3,2025-02-01,2025-02-04,Synthetic resolution details
+1087,215,Billing,Medium,In Progress,Synthetic billing support issue,3,2025-11-29,,
+1222,27,Technical Issue,Low,Resolved,Synthetic technical issue support issue,2,2025-03-25,2025-04-03,Synthetic resolution details
+1356,227,Billing,Medium,Resolved,Synthetic billing support issue,2,2025-04-27,2025-05-09,Synthetic resolution details
+228,250,Other,High,Open,Synthetic other support issue,3,2026-02-09,,
+113,155,Technical Issue,High,Resolved,Synthetic technical issue support issue,1,2025-10-24,2025-11-04,Synthetic resolution details
+16,221,Technical Issue,Low,On Hold,Synthetic technical issue support issue,3,2025-08-24,,
+1145,,Maintenance,Low,Closed,Synthetic maintenance support issue,1,2025-02-13,2025-02-27,Synthetic resolution details
+942,,Maintenance,Medium,Resolved,Synthetic maintenance support issue,2,2026-10-18,2026-11-01,Synthetic resolution details
+236,167,Technical Issue,High,Resolved,Synthetic technical issue support issue,2,2026-01-06,2026-01-09,Synthetic resolution details
+1730,224,Other,Medium,Open,Synthetic other support issue,3,2025-11-14,,
+696,87,Installation,Medium,Open,Synthetic installation support issue,1,2026-06-07,,
+1856,,Maintenance,High,Closed,Synthetic maintenance support issue,1,2025-06-01,2025-06-09,Synthetic resolution details
+300,89,Other,Low,Resolved,Synthetic other support issue,3,2025-03-19,2025-03-25,Synthetic resolution details
+1012,289,Other,Medium,Closed,Synthetic other support issue,3,2026-08-02,2026-08-23,Synthetic resolution details
+1280,162,Technical Issue,Medium,On Hold,Synthetic technical issue support issue,2,2026-10-09,,
+1631,29,Maintenance,Medium,In Progress,Synthetic maintenance support issue,1,2026-04-08,,
+117,147,Installation,Medium,Closed,Synthetic installation support issue,3,2025-04-03,2025-04-23,Synthetic resolution details
+1039,298,Other,Critical,Resolved,Synthetic other support issue,3,2025-02-12,2025-02-27,Synthetic resolution details
+1335,244,Other,Low,Open,Synthetic other support issue,2,2025-04-16,,
+1463,89,Installation,Medium,In Progress,Synthetic installation support issue,3,2026-03-26,,
+1071,,Maintenance,Medium,In Progress,Synthetic maintenance support issue,2,2026-02-23,,
+1391,172,Installation,Medium,Resolved,Synthetic installation support issue,2,2026-01-31,2026-02-10,Synthetic resolution details
+1483,,Other,High,In Progress,Synthetic other support issue,3,2026-08-20,,
+290,,Maintenance,Critical,Resolved,Synthetic maintenance support issue,3,2026-02-06,2026-02-11,Synthetic resolution details
+1452,,Maintenance,Medium,Resolved,Synthetic maintenance support issue,1,2025-12-03,2025-12-30,Synthetic resolution details
+1373,,Other,Low,Resolved,Synthetic other support issue,1,2026-06-05,2026-06-17,Synthetic resolution details
+743,110,Maintenance,Critical,On Hold,Synthetic maintenance support issue,1,2025-08-20,,
+318,52,Other,High,Closed,Synthetic other support issue,3,2026-06-24,2026-06-26,Synthetic resolution details
+690,,Other,Low,In Progress,Synthetic other support issue,1,2025-06-16,,
+1703,,Other,High,Open,Synthetic other support issue,1,2026-03-25,,
+842,122,Billing,Medium,Resolved,Synthetic billing support issue,3,2026-04-05,2026-04-13,Synthetic resolution details
+490,241,Technical Issue,Medium,Closed,Synthetic technical issue support issue,2,2026-03-28,2026-04-12,Synthetic resolution details
+1594,271,Billing,Critical,Closed,Synthetic billing support issue,2,2026-09-12,2026-09-17,Synthetic resolution details
+107,,Maintenance,Medium,Open,Synthetic maintenance support issue,1,2026-06-13,,
+584,83,Maintenance,Medium,On Hold,Synthetic maintenance support issue,1,2026-03-24,,
+1939,,Billing,High,Closed,Synthetic billing support issue,2,2026-03-01,2026-03-03,Synthetic resolution details
+1029,198,Installation,Medium,Open,Synthetic installation support issue,3,2025-04-12,,
+1332,75,Technical Issue,Low,Closed,Synthetic technical issue support issue,1,2026-04-29,2026-05-22,Synthetic resolution details
+1555,,Billing,Medium,Closed,Synthetic billing support issue,1,2025-01-20,2025-01-29,Synthetic resolution details
+1711,271,Billing,Low,In Progress,Synthetic billing support issue,1,2025-11-05,,
+98,235,Installation,Low,Closed,Synthetic installation support issue,1,2026-09-04,2026-09-22,Synthetic resolution details
+1295,124,Technical Issue,Medium,Open,Synthetic technical issue support issue,1,2025-12-28,,
+1169,44,Other,Critical,Open,Synthetic other support issue,3,2026-06-23,,
+1040,,Other,Medium,In Progress,Synthetic other support issue,1,2026-04-27,,
+1302,192,Maintenance,High,In Progress,Synthetic maintenance support issue,2,2025-03-11,,
+494,,Installation,High,Resolved,Synthetic installation support issue,1,2025-12-07,2025-12-12,Synthetic resolution details
+722,90,Billing,Critical,On Hold,Synthetic billing support issue,1,2025-07-06,,
+130,,Billing,Low,Open,Synthetic billing support issue,1,2025-07-24,,
+647,,Other,Medium,Closed,Synthetic other support issue,1,2026-04-30,2026-05-09,Synthetic resolution details
+1543,,Maintenance,Medium,Resolved,Synthetic maintenance support issue,2,2026-11-03,2026-11-14,Synthetic resolution details
+255,,Billing,High,Resolved,Synthetic billing support issue,1,2026-01-31,2026-02-11,Synthetic resolution details
+1017,,Maintenance,Critical,On Hold,Synthetic maintenance support issue,3,2025-03-26,,
+870,93,Other,Medium,Open,Synthetic other support issue,3,2025-12-02,,
+606,219,Technical Issue,High,In Progress,Synthetic technical issue support issue,3,2025-02-13,,
+1782,,Other,Critical,In Progress,Synthetic other support issue,1,2025-02-28,,
+1375,,Maintenance,Medium,Resolved,Synthetic maintenance support issue,1,2025-06-13,2025-06-14,Synthetic resolution details
+1739,,Billing,Low,Open,Synthetic billing support issue,2,2026-10-23,,
+742,291,Installation,Medium,Resolved,Synthetic installation support issue,2,2026-01-15,2026-01-27,Synthetic resolution details
+1563,71,Other,Medium,In Progress,Synthetic other support issue,1,2025-10-13,,
+1968,96,Billing,Medium,Closed,Synthetic billing support issue,2,2025-05-01,2025-05-10,Synthetic resolution details
+1442,147,Billing,Medium,Open,Synthetic billing support issue,2,2025-03-17,,
+354,,Billing,Critical,Closed,Synthetic billing support issue,2,2025-11-24,2025-12-16,Synthetic resolution details
+1454,278,Maintenance,High,Closed,Synthetic maintenance support issue,2,2026-10-16,2026-10-22,Synthetic resolution details
+1042,103,Technical Issue,Medium,On Hold,Synthetic technical issue support issue,3,2026-01-05,,
+1173,283,Technical Issue,Medium,Open,Synthetic technical issue support issue,2,2025-11-13,,
+1469,,Other,Medium,In Progress,Synthetic other support issue,1,2026-08-12,,
+257,,Installation,Medium,Resolved,Synthetic installation support issue,3,2025-12-19,2025-12-24,Synthetic resolution details
+1311,67,Billing,Medium,Closed,Synthetic billing support issue,1,2025-05-08,2025-05-25,Synthetic resolution details
+623,166,Technical Issue,Medium,Closed,Synthetic technical issue support issue,1,2025-10-18,2025-11-15,Synthetic resolution details
+514,283,Maintenance,Low,In Progress,Synthetic maintenance support issue,1,2026-07-01,,
+1030,,Other,Critical,Open,Synthetic other support issue,3,2026-11-06,,
+1476,,Maintenance,High,Resolved,Synthetic maintenance support issue,1,2025-01-30,2025-02-02,Synthetic resolution details
+1943,,Other,Medium,Open,Synthetic other support issue,2,2026-08-09,,
+1266,,Billing,High,On Hold,Synthetic billing support issue,2,2026-10-20,,
+990,208,Maintenance,Medium,Resolved,Synthetic maintenance support issue,2,2025-06-11,2025-06-26,Synthetic resolution details
+992,175,Other,Low,Closed,Synthetic other support issue,2,2025-11-23,2025-12-17,Synthetic resolution details
+1998,190,Other,Medium,In Progress,Synthetic other support issue,1,2026-04-23,,
+548,73,Installation,Low,Closed,Synthetic installation support issue,1,2026-09-23,2026-10-07,Synthetic resolution details
+1972,,Technical Issue,High,Closed,Synthetic technical issue support issue,1,2025-11-17,2025-11-24,Synthetic resolution details
+1021,,Billing,Medium,In Progress,Synthetic billing support issue,1,2025-01-24,,
+1936,235,Technical Issue,Medium,In Progress,Synthetic technical issue support issue,2,2025-02-21,,
+1014,241,Maintenance,Medium,Closed,Synthetic maintenance support issue,2,2026-03-18,2026-03-23,Synthetic resolution details
+1490,207,Maintenance,Low,Open,Synthetic maintenance support issue,1,2026-07-30,,
+743,38,Billing,Medium,Resolved,Synthetic billing support issue,3,2025-10-14,2025-11-10,Synthetic resolution details
+1394,,Technical Issue,Critical,In Progress,Synthetic technical issue support issue,3,2025-12-14,,
+1923,74,Technical Issue,Medium,In Progress,Synthetic technical issue support issue,1,2025-02-11,,
+80,171,Billing,Medium,Open,Synthetic billing support issue,1,2026-06-12,,
+672,,Maintenance,Low,Closed,Synthetic maintenance support issue,2,2025-11-03,2025-11-22,Synthetic resolution details
+1039,,Other,Medium,Resolved,Synthetic other support issue,1,2026-05-02,2026-05-29,Synthetic resolution details
+755,57,Billing,Medium,Resolved,Synthetic billing support issue,3,2026-10-07,2026-10-08,Synthetic resolution details
+972,297,Other,Medium,Open,Synthetic other support issue,1,2026-05-07,,
+1074,,Other,High,In Progress,Synthetic other support issue,1,2025-09-06,,
+1173,,Installation,Low,In Progress,Synthetic installation support issue,1,2026-03-05,,
+846,,Billing,Medium,Resolved,Synthetic billing support issue,3,2026-04-28,2026-05-26,Synthetic resolution details
+1490,71,Other,Medium,In Progress,Synthetic other support issue,2,2026-11-10,,
+1077,89,Billing,Critical,In Progress,Synthetic billing support issue,3,2025-12-29,,
+1582,,Maintenance,Medium,Open,Synthetic maintenance support issue,2,2025-09-10,,
+1143,153,Maintenance,High,Resolved,Synthetic maintenance support issue,2,2026-05-16,2026-05-27,Synthetic resolution details
+715,141,Maintenance,Low,Resolved,Synthetic maintenance support issue,2,2026-01-24,2026-02-22,Synthetic resolution details
+1677,75,Maintenance,Low,Closed,Synthetic maintenance support issue,2,2025-03-22,2025-04-03,Synthetic resolution details
+1344,246,Technical Issue,Medium,On Hold,Synthetic technical issue support issue,3,2026-07-30,,
+557,301,Technical Issue,Medium,Resolved,Synthetic technical issue support issue,3,2026-06-28,2026-07-06,Synthetic resolution details
+477,212,Maintenance,High,Open,Synthetic maintenance support issue,1,2025-05-21,,
+1976,81,Billing,High,Closed,Synthetic billing support issue,3,2026-05-03,2026-05-19,Synthetic resolution details
+409,,Maintenance,Medium,Resolved,Synthetic maintenance support issue,3,2025-04-02,2025-04-23,Synthetic resolution details
+476,20,Technical Issue,Medium,Closed,Synthetic technical issue support issue,2,2025-02-07,2025-03-06,Synthetic resolution details
+1614,149,Installation,Low,Resolved,Synthetic installation support issue,2,2025-04-20,2025-05-20,Synthetic resolution details
+583,279,Other,Medium,Closed,Synthetic other support issue,2,2026-06-01,2026-06-16,Synthetic resolution details
+395,,Maintenance,Low,On Hold,Synthetic maintenance support issue,3,2025-09-21,,
+382,173,Maintenance,Medium,Resolved,Synthetic maintenance support issue,3,2025-06-29,2025-07-19,Synthetic resolution details
+1838,219,Other,Medium,In Progress,Synthetic other support issue,1,2025-04-08,,
+288,128,Installation,Medium,Open,Synthetic installation support issue,2,2025-10-01,,
+619,294,Installation,Medium,In Progress,Synthetic installation support issue,1,2025-08-30,,
+1368,158,Technical Issue,Medium,On Hold,Synthetic technical issue support issue,3,2025-11-15,,
+241,,Maintenance,Medium,Open,Synthetic maintenance support issue,2,2025-05-17,,
+314,192,Billing,High,Closed,Synthetic billing support issue,3,2026-07-05,2026-07-31,Synthetic resolution details
+1691,127,Other,High,Open,Synthetic other support issue,3,2026-04-03,,
+1442,289,Installation,Low,On Hold,Synthetic installation support issue,1,2026-06-02,,
+1173,85,Maintenance,High,In Progress,Synthetic maintenance support issue,3,2025-07-30,,
+1195,262,Billing,High,On Hold,Synthetic billing support issue,2,2026-06-10,,
+936,287,Billing,High,In Progress,Synthetic billing support issue,2,2025-01-23,,
+522,,Technical Issue,Medium,Open,Synthetic technical issue support issue,3,2025-12-19,,
+131,31,Installation,Critical,On Hold,Synthetic installation support issue,2,2025-10-21,,
+369,,Billing,Medium,Closed,Synthetic billing support issue,2,2026-04-05,2026-05-03,Synthetic resolution details
+770,277,Technical Issue,High,In Progress,Synthetic technical issue support issue,3,2025-07-02,,
+805,115,Installation,High,Closed,Synthetic installation support issue,3,2026-04-20,2026-05-12,Synthetic resolution details
+1116,195,Technical Issue,Medium,In Progress,Synthetic technical issue support issue,1,2025-10-10,,
+1920,,Installation,Low,Resolved,Synthetic installation support issue,1,2026-09-22,2026-10-17,Synthetic resolution details
+493,52,Other,Low,Resolved,Synthetic other support issue,3,2025-02-19,2025-02-27,Synthetic resolution details
+91,120,Other,Medium,Closed,Synthetic other support issue,3,2025-02-27,2025-03-04,Synthetic resolution details
+593,295,Maintenance,Medium,Resolved,Synthetic maintenance support issue,2,2025-11-25,2025-12-03,Synthetic resolution details
+1795,267,Technical Issue,Medium,In Progress,Synthetic technical issue support issue,3,2026-07-25,,
+1802,,Technical Issue,Medium,In Progress,Synthetic technical issue support issue,1,2026-05-23,,
+1992,196,Other,Medium,In Progress,Synthetic other support issue,2,2025-06-02,,
+771,276,Billing,Medium,Open,Synthetic billing support issue,2,2025-05-28,,
+1874,212,Billing,Medium,Open,Synthetic billing support issue,2,2025-09-06,,
+417,41,Billing,High,Open,Synthetic billing support issue,1,2025-07-15,,
+550,21,Installation,Low,Resolved,Synthetic installation support issue,2,2026-07-27,2026-08-03,Synthetic resolution details
+428,,Maintenance,Medium,Closed,Synthetic maintenance support issue,1,2025-08-05,2025-09-04,Synthetic resolution details
+1971,,Billing,Critical,Resolved,Synthetic billing support issue,1,2025-07-29,2025-08-11,Synthetic resolution details
+1131,145,Billing,Medium,Resolved,Synthetic billing support issue,2,2025-11-12,2025-11-21,Synthetic resolution details
+1051,,Billing,Low,Closed,Synthetic billing support issue,2,2026-04-26,2026-05-21,Synthetic resolution details
+1873,161,Billing,Low,Closed,Synthetic billing support issue,2,2025-05-30,2025-05-31,Synthetic resolution details
+1134,,Other,High,In Progress,Synthetic other support issue,2,2025-07-20,,
+472,126,Billing,Medium,Closed,Synthetic billing support issue,2,2025-12-12,2025-12-21,Synthetic resolution details
+1980,,Billing,Medium,Resolved,Synthetic billing support issue,1,2025-12-27,2026-01-02,Synthetic resolution details
+1476,95,Other,Critical,Closed,Synthetic other support issue,1,2026-06-21,2026-06-23,Synthetic resolution details
+1936,,Installation,High,In Progress,Synthetic installation support issue,1,2026-10-08,,
+140,,Installation,Medium,On Hold,Synthetic installation support issue,3,2025-03-03,,
+1307,,Other,Critical,Resolved,Synthetic other support issue,3,2025-01-17,2025-01-18,Synthetic resolution details
+1130,9,Other,High,On Hold,Synthetic other support issue,1,2025-10-21,,
+1029,,Billing,High,Closed,Synthetic billing support issue,1,2025-04-20,2025-05-20,Synthetic resolution details
+1074,99,Other,Medium,Closed,Synthetic other support issue,2,2025-10-01,2025-10-27,Synthetic resolution details
+162,208,Billing,Medium,Closed,Synthetic billing support issue,3,2025-08-20,2025-08-30,Synthetic resolution details
+1696,,Installation,Low,In Progress,Synthetic installation support issue,2,2026-07-20,,
+115,,Technical Issue,Low,Closed,Synthetic technical issue support issue,2,2026-10-23,2026-11-18,Synthetic resolution details
+1159,,Installation,High,Closed,Synthetic installation support issue,3,2025-08-24,2025-08-31,Synthetic resolution details
+1818,139,Installation,Critical,Resolved,Synthetic installation support issue,3,2025-10-15,2025-11-13,Synthetic resolution details
+1155,,Technical Issue,Critical,In Progress,Synthetic technical issue support issue,3,2025-08-01,,
+296,,Billing,Critical,In Progress,Synthetic billing support issue,1,2026-08-01,,
+1161,,Billing,High,On Hold,Synthetic billing support issue,3,2026-01-29,,
+287,,Installation,Medium,Closed,Synthetic installation support issue,2,2025-02-24,2025-02-28,Synthetic resolution details
+476,,Maintenance,Medium,Resolved,Synthetic maintenance support issue,2,2026-09-02,2026-09-15,Synthetic resolution details
+61,,Billing,Medium,In Progress,Synthetic billing support issue,2,2026-01-20,,
+381,,Billing,Low,Resolved,Synthetic billing support issue,1,2025-09-10,2025-10-03,Synthetic resolution details
+169,195,Technical Issue,High,In Progress,Synthetic technical issue support issue,1,2025-04-20,,
+11,,Billing,Medium,In Progress,Synthetic billing support issue,1,2025-05-16,,
+384,286,Other,Medium,Open,Synthetic other support issue,2,2025-04-02,,
+1136,167,Billing,Low,In Progress,Synthetic billing support issue,3,2025-03-28,,
+1846,125,Other,Medium,Resolved,Synthetic other support issue,2,2025-06-23,2025-06-28,Synthetic resolution details
+617,75,Installation,Low,In Progress,Synthetic installation support issue,2,2025-11-03,,
+1603,129,Technical Issue,High,On Hold,Synthetic technical issue support issue,1,2026-09-24,,
+938,156,Installation,Critical,In Progress,Synthetic installation support issue,2,2026-09-28,,
+1647,,Billing,Medium,Closed,Synthetic billing support issue,1,2026-10-29,2026-11-18,Synthetic resolution details
+616,103,Billing,Medium,Closed,Synthetic billing support issue,3,2025-11-23,2025-12-03,Synthetic resolution details
+1424,,Other,High,In Progress,Synthetic other support issue,2,2025-10-15,,
+748,289,Technical Issue,Medium,On Hold,Synthetic technical issue support issue,1,2026-07-18,,
+1952,,Technical Issue,Medium,In Progress,Synthetic technical issue support issue,2,2025-03-12,,
+1379,156,Technical Issue,Medium,Open,Synthetic technical issue support issue,2,2026-03-10,,
+152,246,Other,Medium,On Hold,Synthetic other support issue,3,2026-03-05,,
+76,,Maintenance,High,Closed,Synthetic maintenance support issue,1,2026-09-01,2026-09-22,Synthetic resolution details
+224,,Maintenance,Low,Resolved,Synthetic maintenance support issue,3,2026-07-31,2026-08-21,Synthetic resolution details
+1325,170,Billing,Low,Open,Synthetic billing support issue,3,2025-08-16,,
+1530,298,Other,Medium,In Progress,Synthetic other support issue,3,2026-04-20,,
+1206,,Technical Issue,Medium,Open,Synthetic technical issue support issue,2,2025-04-18,,
+852,,Installation,Low,Closed,Synthetic installation support issue,2,2025-05-26,2025-06-07,Synthetic resolution details
+703,106,Other,Medium,On Hold,Synthetic other support issue,3,2026-03-25,,
+1427,35,Maintenance,Low,Resolved,Synthetic maintenance support issue,2,2025-01-24,2025-02-21,Synthetic resolution details
+1328,85,Technical Issue,Medium,Resolved,Synthetic technical issue support issue,2,2025-12-05,2025-12-23,Synthetic resolution details
+1963,208,Technical Issue,Low,Resolved,Synthetic technical issue support issue,3,2026-02-10,2026-02-11,Synthetic resolution details
+1258,,Billing,Medium,In Progress,Synthetic billing support issue,1,2025-08-08,,
+571,,Installation,Medium,Resolved,Synthetic installation support issue,2,2026-07-04,2026-07-10,Synthetic resolution details
+668,59,Maintenance,High,On Hold,Synthetic maintenance support issue,2,2026-10-17,,
+1223,201,Other,Low,In Progress,Synthetic other support issue,3,2026-04-14,,
+354,,Maintenance,Critical,Resolved,Synthetic maintenance support issue,1,2025-05-18,2025-05-29,Synthetic resolution details
+489,94,Maintenance,High,On Hold,Synthetic maintenance support issue,3,2026-03-05,,
+283,217,Technical Issue,Medium,On Hold,Synthetic technical issue support issue,1,2026-10-23,,
+1137,148,Technical Issue,Low,Closed,Synthetic technical issue support issue,2,2026-09-27,2026-09-29,Synthetic resolution details
+1950,70,Technical Issue,High,Closed,Synthetic technical issue support issue,2,2026-06-02,2026-06-23,Synthetic resolution details
+838,,Billing,High,In Progress,Synthetic billing support issue,1,2025-06-21,,
+1158,113,Maintenance,Low,Open,Synthetic maintenance support issue,1,2025-10-23,,
+1599,254,Other,Medium,Resolved,Synthetic other support issue,3,2025-10-02,2025-10-27,Synthetic resolution details
+1687,,Other,High,Open,Synthetic other support issue,3,2026-03-28,,
+448,,Installation,High,Resolved,Synthetic installation support issue,1,2025-09-11,2025-09-21,Synthetic resolution details
+922,45,Billing,High,Open,Synthetic billing support issue,1,2025-08-31,,
+1661,,Maintenance,High,Resolved,Synthetic maintenance support issue,3,2026-03-15,2026-03-21,Synthetic resolution details
+286,,Technical Issue,High,Resolved,Synthetic technical issue support issue,3,2026-06-30,2026-07-09,Synthetic resolution details
+1104,150,Maintenance,Medium,Closed,Synthetic maintenance support issue,3,2026-06-11,2026-07-10,Synthetic resolution details
+1670,211,Installation,Critical,Closed,Synthetic installation support issue,1,2025-05-10,2025-06-02,Synthetic resolution details
+512,165,Technical Issue,High,Resolved,Synthetic technical issue support issue,3,2026-05-17,2026-05-22,Synthetic resolution details
+1296,213,Billing,Medium,Resolved,Synthetic billing support issue,3,2025-04-06,2025-04-19,Synthetic resolution details
+1536,189,Billing,Critical,In Progress,Synthetic billing support issue,3,2025-01-03,,
+191,,Billing,Medium,Resolved,Synthetic billing support issue,3,2025-03-06,2025-04-01,Synthetic resolution details
+815,220,Technical Issue,Medium,In Progress,Synthetic technical issue support issue,2,2025-10-18,,
+1121,290,Billing,High,Closed,Synthetic billing support issue,1,2025-02-19,2025-02-21,Synthetic resolution details
+1283,,Billing,Low,Closed,Synthetic billing support issue,2,2025-06-11,2025-06-26,Synthetic resolution details
+2,,Billing,Medium,Resolved,Synthetic billing support issue,3,2025-05-16,2025-06-14,Synthetic resolution details
+619,141,Installation,High,In Progress,Synthetic installation support issue,3,2026-01-16,,
+1851,,Installation,Medium,In Progress,Synthetic installation support issue,2,2025-08-28,,
+1343,49,Installation,Medium,Open,Synthetic installation support issue,1,2026-08-31,,
+1064,,Installation,Low,In Progress,Synthetic installation support issue,2,2025-05-04,,
+1422,37,Technical Issue,Medium,Resolved,Synthetic technical issue support issue,2,2025-04-15,2025-04-19,Synthetic resolution details
+753,,Technical Issue,Medium,Closed,Synthetic technical issue support issue,3,2025-05-17,2025-06-07,Synthetic resolution details
+293,289,Installation,Medium,Open,Synthetic installation support issue,3,2025-12-26,,
+437,,Technical Issue,Critical,Resolved,Synthetic technical issue support issue,1,2026-03-30,2026-04-27,Synthetic resolution details
+178,,Technical Issue,High,Resolved,Synthetic technical issue support issue,2,2026-01-29,2026-02-10,Synthetic resolution details
+645,,Technical Issue,Medium,Open,Synthetic technical issue support issue,3,2026-07-21,,
+1229,,Maintenance,High,Resolved,Synthetic maintenance support issue,2,2026-11-06,2026-12-05,Synthetic resolution details
+421,261,Technical Issue,High,In Progress,Synthetic technical issue support issue,1,2025-02-25,,
+1014,124,Billing,Medium,Open,Synthetic billing support issue,2,2025-01-13,,
+1913,199,Other,Medium,On Hold,Synthetic other support issue,2,2025-06-26,,
+1955,,Installation,Low,Open,Synthetic installation support issue,1,2025-09-26,,
+82,,Billing,Medium,Resolved,Synthetic billing support issue,2,2026-05-29,2026-06-23,Synthetic resolution details
+868,,Installation,Medium,On Hold,Synthetic installation support issue,2,2025-06-06,,
+172,262,Technical Issue,Critical,Open,Synthetic technical issue support issue,2,2025-12-01,,
+1202,,Installation,Medium,In Progress,Synthetic installation support issue,1,2025-09-02,,
+501,223,Installation,Medium,Resolved,Synthetic installation support issue,3,2025-11-13,2025-12-05,Synthetic resolution details
+1348,,Installation,Low,Open,Synthetic installation support issue,1,2025-01-12,,
+1017,,Other,Medium,Closed,Synthetic other support issue,2,2025-09-23,2025-09-29,Synthetic resolution details
+260,,Maintenance,High,Open,Synthetic maintenance support issue,2,2025-01-31,,
+1653,269,Installation,Medium,Closed,Synthetic installation support issue,2,2026-10-05,2026-10-08,Synthetic resolution details
+933,29,Billing,High,Open,Synthetic billing support issue,2,2025-06-11,,
+1584,294,Installation,Medium,On Hold,Synthetic installation support issue,1,2025-02-15,,
+501,187,Billing,Critical,Open,Synthetic billing support issue,3,2025-02-06,,
+1645,,Billing,Medium,Open,Synthetic billing support issue,2,2025-11-24,,
+1692,191,Installation,Medium,Closed,Synthetic installation support issue,3,2025-07-03,2025-07-11,Synthetic resolution details
+95,,Installation,High,Closed,Synthetic installation support issue,1,2025-11-15,2025-11-26,Synthetic resolution details
+1133,189,Technical Issue,Medium,Resolved,Synthetic technical issue support issue,2,2026-09-30,2026-10-08,Synthetic resolution details
+755,253,Technical Issue,High,On Hold,Synthetic technical issue support issue,1,2025-09-09,,
+14,,Installation,Medium,In Progress,Synthetic installation support issue,2,2025-01-10,,
+3,,Billing,High,Resolved,Synthetic billing support issue,3,2025-04-17,2025-04-24,Synthetic resolution details
+488,31,Technical Issue,High,Open,Synthetic technical issue support issue,3,2025-08-26,,
+846,,Maintenance,Medium,Resolved,Synthetic maintenance support issue,3,2026-08-18,2026-08-22,Synthetic resolution details
+274,,Billing,Low,Resolved,Synthetic billing support issue,1,2026-03-22,2026-04-13,Synthetic resolution details
+485,162,Billing,High,Resolved,Synthetic billing support issue,2,2025-11-22,2025-12-07,Synthetic resolution details
+479,104,Technical Issue,High,Resolved,Synthetic technical issue support issue,1,2025-06-09,2025-06-13,Synthetic resolution details
+921,209,Installation,Medium,Closed,Synthetic installation support issue,2,2025-08-01,2025-08-16,Synthetic resolution details
+949,62,Installation,Low,Resolved,Synthetic installation support issue,1,2026-09-10,2026-09-12,Synthetic resolution details
+1712,,Technical Issue,Low,Open,Synthetic technical issue support issue,2,2025-12-31,,
+1052,154,Maintenance,High,Open,Synthetic maintenance support issue,2,2026-02-19,,
+1139,,Technical Issue,Low,Open,Synthetic technical issue support issue,1,2025-05-24,,
+25,114,Technical Issue,Low,In Progress,Synthetic technical issue support issue,3,2026-10-08,,
+173,133,Installation,Low,Open,Synthetic installation support issue,2,2026-10-24,,
+1658,170,Installation,Low,On Hold,Synthetic installation support issue,3,2025-06-22,,
+888,,Billing,Medium,In Progress,Synthetic billing support issue,1,2026-03-13,,
+725,96,Maintenance,Medium,Closed,Synthetic maintenance support issue,3,2025-02-05,2025-02-25,Synthetic resolution details
+1264,152,Billing,Medium,Resolved,Synthetic billing support issue,2,2025-03-04,2025-03-07,Synthetic resolution details
+785,103,Other,Medium,Closed,Synthetic other support issue,1,2026-07-11,2026-08-06,Synthetic resolution details
+784,,Maintenance,Medium,Resolved,Synthetic maintenance support issue,3,2025-12-19,2026-01-18,Synthetic resolution details
+1029,139,Technical Issue,Low,Resolved,Synthetic technical issue support issue,2,2025-01-31,2025-03-01,Synthetic resolution details
+120,,Billing,Medium,Resolved,Synthetic billing support issue,1,2025-08-27,2025-09-02,Synthetic resolution details
+508,,Maintenance,Medium,Resolved,Synthetic maintenance support issue,1,2025-02-27,2025-03-24,Synthetic resolution details
+1180,,Billing,Medium,Closed,Synthetic billing support issue,1,2025-06-27,2025-07-03,Synthetic resolution details
+1214,184,Other,Low,Resolved,Synthetic other support issue,1,2026-08-05,2026-08-24,Synthetic resolution details
+1154,,Billing,Medium,Open,Synthetic billing support issue,1,2025-02-08,,
+116,113,Installation,Medium,Open,Synthetic installation support issue,1,2026-09-21,,
+1652,91,Maintenance,Low,Open,Synthetic maintenance support issue,1,2025-05-26,,
+1734,187,Installation,Medium,Closed,Synthetic installation support issue,1,2026-02-10,2026-03-01,Synthetic resolution details
+690,70,Technical Issue,High,In Progress,Synthetic technical issue support issue,2,2026-10-17,,
+1330,288,Other,High,Open,Synthetic other support issue,1,2026-08-27,,
+775,151,Technical Issue,Low,Open,Synthetic technical issue support issue,2,2026-08-10,,
+1743,,Other,Low,Resolved,Synthetic other support issue,3,2026-09-19,2026-09-27,Synthetic resolution details
+1159,255,Technical Issue,Medium,Open,Synthetic technical issue support issue,2,2025-12-22,,
+344,,Installation,High,Resolved,Synthetic installation support issue,1,2025-12-10,2025-12-25,Synthetic resolution details
+544,35,Maintenance,Medium,Open,Synthetic maintenance support issue,1,2025-01-02,,
+791,215,Technical Issue,High,On Hold,Synthetic technical issue support issue,2,2026-01-23,,
+1119,246,Other,High,Resolved,Synthetic other support issue,1,2025-06-16,2025-07-01,Synthetic resolution details
+1637,,Maintenance,Low,In Progress,Synthetic maintenance support issue,1,2025-04-18,,
+701,193,Technical Issue,High,On Hold,Synthetic technical issue support issue,2,2025-04-06,,
+1217,,Billing,High,In Progress,Synthetic billing support issue,1,2026-11-01,,
+1244,,Technical Issue,Low,In Progress,Synthetic technical issue support issue,2,2025-07-14,,
+1428,277,Maintenance,High,In Progress,Synthetic maintenance support issue,1,2025-04-09,,
+805,252,Technical Issue,Low,Open,Synthetic technical issue support issue,2,2025-03-31,,
+1688,,Other,Medium,Open,Synthetic other support issue,1,2025-07-31,,
+1308,42,Billing,High,In Progress,Synthetic billing support issue,2,2026-02-12,,
+1002,,Maintenance,Low,On Hold,Synthetic maintenance support issue,2,2025-07-09,,
+1814,96,Billing,Low,In Progress,Synthetic billing support issue,1,2025-09-27,,
+1715,32,Technical Issue,High,Resolved,Synthetic technical issue support issue,2,2025-03-29,2025-04-20,Synthetic resolution details
+1656,117,Other,Low,In Progress,Synthetic other support issue,2,2026-06-20,,
+1978,244,Other,High,On Hold,Synthetic other support issue,2,2025-03-22,,
+1849,,Installation,Medium,Closed,Synthetic installation support issue,3,2026-08-09,2026-08-31,Synthetic resolution details
+302,230,Technical Issue,Critical,Open,Synthetic technical issue support issue,1,2025-08-05,,
+259,41,Billing,Medium,Closed,Synthetic billing support issue,3,2025-06-01,2025-06-28,Synthetic resolution details
+529,35,Installation,Medium,In Progress,Synthetic installation support issue,2,2025-11-30,,
+1065,7,Other,Medium,Resolved,Synthetic other support issue,1,2025-04-26,2025-05-10,Synthetic resolution details
+304,299,Installation,Critical,Resolved,Synthetic installation support issue,2,2025-04-14,2025-05-10,Synthetic resolution details
+1777,177,Billing,Medium,Resolved,Synthetic billing support issue,2,2026-08-09,2026-08-29,Synthetic resolution details
+77,207,Technical Issue,Medium,Resolved,Synthetic technical issue support issue,2,2026-02-16,2026-02-18,Synthetic resolution details
+1822,,Technical Issue,Low,On Hold,Synthetic technical issue support issue,2,2025-10-03,,
+42,156,Maintenance,Medium,On Hold,Synthetic maintenance support issue,1,2025-04-11,,
+276,227,Maintenance,Medium,In Progress,Synthetic maintenance support issue,1,2026-10-24,,
+385,209,Billing,High,Closed,Synthetic billing support issue,1,2025-02-27,2025-03-16,Synthetic resolution details
+135,260,Billing,Low,Closed,Synthetic billing support issue,1,2026-08-06,2026-08-07,Synthetic resolution details
+395,,Technical Issue,High,Open,Synthetic technical issue support issue,1,2026-04-13,,
+1881,102,Maintenance,Medium,On Hold,Synthetic maintenance support issue,3,2026-02-11,,
+1891,16,Technical Issue,Medium,Resolved,Synthetic technical issue support issue,2,2025-07-01,2025-07-29,Synthetic resolution details
+1202,177,Technical Issue,High,In Progress,Synthetic technical issue support issue,2,2025-04-03,,
+57,84,Other,High,Open,Synthetic other support issue,3,2025-08-15,,
+462,,Maintenance,High,On Hold,Synthetic maintenance support issue,2,2025-01-10,,
+1867,89,Other,High,Open,Synthetic other support issue,2,2026-09-15,,
+1460,,Maintenance,Medium,In Progress,Synthetic maintenance support issue,2,2025-12-24,,
+517,155,Other,High,In Progress,Synthetic other support issue,1,2025-04-15,,
+1048,,Maintenance,Medium,Resolved,Synthetic maintenance support issue,3,2025-10-17,2025-10-27,Synthetic resolution details
+222,173,Maintenance,Medium,Closed,Synthetic maintenance support issue,3,2025-09-25,2025-10-16,Synthetic resolution details
+1951,,Maintenance,Low,On Hold,Synthetic maintenance support issue,1,2025-09-04,,
+1650,,Other,Medium,In Progress,Synthetic other support issue,3,2025-05-24,,
+53,,Maintenance,Medium,In Progress,Synthetic maintenance support issue,3,2026-02-02,,
+73,293,Technical Issue,Medium,Resolved,Synthetic technical issue support issue,2,2026-07-02,2026-07-23,Synthetic resolution details
+1857,,Maintenance,Medium,Closed,Synthetic maintenance support issue,3,2026-11-05,2026-12-04,Synthetic resolution details
+371,242,Technical Issue,High,Resolved,Synthetic technical issue support issue,1,2026-07-27,2026-08-21,Synthetic resolution details
+1940,,Maintenance,High,Open,Synthetic maintenance support issue,3,2025-08-17,,
+1785,170,Maintenance,Medium,In Progress,Synthetic maintenance support issue,2,2025-05-01,,
+110,,Other,Medium,Resolved,Synthetic other support issue,1,2026-04-29,2026-05-28,Synthetic resolution details
+1025,196,Other,Medium,Open,Synthetic other support issue,1,2025-06-04,,
+411,292,Billing,Low,Closed,Synthetic billing support issue,1,2025-07-04,2025-07-29,Synthetic resolution details
+999,91,Maintenance,Medium,Open,Synthetic maintenance support issue,1,2025-10-08,,
+1559,,Other,High,On Hold,Synthetic other support issue,1,2025-04-01,,
+1259,220,Billing,Medium,On Hold,Synthetic billing support issue,1,2025-01-05,,
+1094,192,Installation,High,Resolved,Synthetic installation support issue,1,2026-06-28,2026-07-05,Synthetic resolution details
+1386,128,Technical Issue,High,In Progress,Synthetic technical issue support issue,1,2025-05-13,,
+786,157,Technical Issue,Low,Open,Synthetic technical issue support issue,2,2025-10-25,,
+1491,269,Maintenance,Medium,Resolved,Synthetic maintenance support issue,2,2025-05-18,2025-05-29,Synthetic resolution details
+736,,Technical Issue,Critical,Closed,Synthetic technical issue support issue,1,2026-02-18,2026-02-19,Synthetic resolution details
+460,,Technical Issue,Medium,Open,Synthetic technical issue support issue,1,2026-06-01,,
+253,20,Billing,High,In Progress,Synthetic billing support issue,3,2026-07-02,,
+100,25,Installation,High,Open,Synthetic installation support issue,2,2025-04-29,,
+910,281,Maintenance,Medium,Open,Synthetic maintenance support issue,1,2026-10-08,,
+617,52,Other,Medium,Resolved,Synthetic other support issue,1,2025-05-21,2025-06-04,Synthetic resolution details
+1048,,Installation,Medium,Resolved,Synthetic installation support issue,3,2026-05-25,2026-06-01,Synthetic resolution details
+410,,Other,Critical,In Progress,Synthetic other support issue,2,2026-02-24,,
+329,255,Technical Issue,High,On Hold,Synthetic technical issue support issue,1,2025-08-29,,
+27,,Installation,High,Resolved,Synthetic installation support issue,3,2025-06-02,2025-06-05,Synthetic resolution details
+154,,Installation,Critical,Resolved,Synthetic installation support issue,2,2026-04-13,2026-04-23,Synthetic resolution details
+951,90,Installation,High,In Progress,Synthetic installation support issue,2,2025-11-17,,
+1513,24,Installation,High,Resolved,Synthetic installation support issue,2,2025-06-24,2025-07-05,Synthetic resolution details
+1832,138,Installation,Medium,In Progress,Synthetic installation support issue,2,2025-04-27,,
+820,,Maintenance,High,Resolved,Synthetic maintenance support issue,2,2026-05-05,2026-05-31,Synthetic resolution details
+1329,,Technical Issue,Low,Resolved,Synthetic technical issue support issue,1,2025-03-02,2025-03-30,Synthetic resolution details
+213,248,Other,High,Open,Synthetic other support issue,2,2026-01-24,,
+1253,67,Billing,Critical,Open,Synthetic billing support issue,2,2026-02-26,,
+95,161,Installation,High,Resolved,Synthetic installation support issue,3,2026-08-14,2026-09-07,Synthetic resolution details
+459,,Maintenance,Medium,Resolved,Synthetic maintenance support issue,2,2026-09-26,2026-09-30,Synthetic resolution details
+1356,,Billing,Medium,Resolved,Synthetic billing support issue,3,2026-01-30,2026-02-04,Synthetic resolution details
+1827,,Installation,Low,Closed,Synthetic installation support issue,2,2026-06-02,2026-06-30,Synthetic resolution details
+1745,85,Installation,High,In Progress,Synthetic installation support issue,2,2025-12-05,,
+104,282,Billing,Medium,Open,Synthetic billing support issue,2,2026-04-16,,
+1641,46,Billing,Medium,Open,Synthetic billing support issue,3,2026-05-25,,
+1339,207,Billing,Low,On Hold,Synthetic billing support issue,3,2025-04-04,,
+1973,,Maintenance,High,Resolved,Synthetic maintenance support issue,2,2026-11-02,2026-11-24,Synthetic resolution details
+1947,28,Technical Issue,High,In Progress,Synthetic technical issue support issue,3,2026-09-27,,
+969,,Maintenance,High,Open,Synthetic maintenance support issue,1,2026-11-06,,
+5,150,Other,Medium,Resolved,Synthetic other support issue,1,2025-02-16,2025-03-17,Synthetic resolution details
+1009,210,Installation,Medium,Open,Synthetic installation support issue,2,2025-05-04,,
+442,98,Maintenance,Low,In Progress,Synthetic maintenance support issue,3,2026-10-11,,
+1206,231,Billing,High,Closed,Synthetic billing support issue,1,2025-05-18,2025-06-03,Synthetic resolution details
+1087,,Other,Critical,Closed,Synthetic other support issue,3,2026-05-10,2026-06-09,Synthetic resolution details
+1600,,Technical Issue,High,Open,Synthetic technical issue support issue,1,2025-05-12,,
+794,,Other,High,On Hold,Synthetic other support issue,2,2026-01-29,,
+1248,,Technical Issue,Medium,Closed,Synthetic technical issue support issue,1,2025-10-29,2025-11-13,Synthetic resolution details
+283,263,Maintenance,High,On Hold,Synthetic maintenance support issue,3,2025-11-18,,
+1510,,Technical Issue,Medium,Resolved,Synthetic technical issue support issue,2,2025-10-25,2025-11-16,Synthetic resolution details
+1887,,Technical Issue,Medium,Resolved,Synthetic technical issue support issue,1,2025-11-27,2025-12-20,Synthetic resolution details
+1559,246,Other,Medium,Resolved,Synthetic other support issue,3,2026-03-04,2026-03-26,Synthetic resolution details
+1831,,Maintenance,High,In Progress,Synthetic maintenance support issue,3,2025-01-14,,
+219,75,Installation,High,Open,Synthetic installation support issue,2,2025-06-14,,
+1400,32,Maintenance,Medium,On Hold,Synthetic maintenance support issue,2,2026-01-03,,
+210,,Other,High,Resolved,Synthetic other support issue,1,2026-07-29,2026-08-11,Synthetic resolution details
+1047,,Maintenance,High,Open,Synthetic maintenance support issue,2,2026-01-26,,
+854,,Maintenance,Critical,Open,Synthetic maintenance support issue,1,2025-09-15,,
+1271,,Billing,High,Closed,Synthetic billing support issue,3,2026-10-26,2026-11-07,Synthetic resolution details
+1120,,Technical Issue,High,Closed,Synthetic technical issue support issue,1,2025-10-29,2025-11-13,Synthetic resolution details
+1399,89,Other,Low,Open,Synthetic other support issue,3,2025-10-13,,
+542,300,Maintenance,Low,On Hold,Synthetic maintenance support issue,1,2025-06-08,,
+315,,Other,Low,Closed,Synthetic other support issue,3,2026-09-23,2026-10-20,Synthetic resolution details
+617,294,Other,Medium,Resolved,Synthetic other support issue,1,2025-11-22,2025-12-09,Synthetic resolution details
+1960,35,Other,Low,On Hold,Synthetic other support issue,1,2026-02-18,,
+716,110,Maintenance,Medium,In Progress,Synthetic maintenance support issue,3,2026-09-26,,
+973,,Installation,Low,In Progress,Synthetic installation support issue,3,2025-09-04,,
+1257,,Technical Issue,Critical,Resolved,Synthetic technical issue support issue,1,2025-11-25,2025-12-08,Synthetic resolution details
+791,145,Installation,Critical,Closed,Synthetic installation support issue,3,2026-01-19,2026-02-05,Synthetic resolution details
+913,152,Technical Issue,Medium,Open,Synthetic technical issue support issue,1,2025-04-09,,
+1990,,Other,Medium,Resolved,Synthetic other support issue,3,2025-08-04,2025-08-26,Synthetic resolution details
+1585,218,Installation,Medium,Closed,Synthetic installation support issue,1,2026-03-22,2026-04-12,Synthetic resolution details
+1530,,Installation,Medium,In Progress,Synthetic installation support issue,1,2025-03-31,,
+112,129,Other,Low,Closed,Synthetic other support issue,2,2025-09-22,2025-10-06,Synthetic resolution details
+924,,Billing,Medium,In Progress,Synthetic billing support issue,3,2025-05-02,,
+13,,Other,Low,Resolved,Synthetic other support issue,1,2025-02-16,2025-03-11,Synthetic resolution details
+733,,Installation,Medium,Resolved,Synthetic installation support issue,2,2026-09-14,2026-09-17,Synthetic resolution details
+1568,,Billing,Medium,Resolved,Synthetic billing support issue,3,2026-05-01,2026-05-07,Synthetic resolution details
+451,201,Other,Medium,Resolved,Synthetic other support issue,3,2025-11-02,2025-11-24,Synthetic resolution details
+1327,6,Other,High,Open,Synthetic other support issue,1,2025-02-12,,
+1173,276,Other,Critical,In Progress,Synthetic other support issue,1,2025-12-19,,
+846,,Other,Low,Open,Synthetic other support issue,2,2026-09-24,,
+398,291,Installation,High,Closed,Synthetic installation support issue,3,2026-07-17,2026-08-01,Synthetic resolution details
+1126,35,Maintenance,Low,Resolved,Synthetic maintenance support issue,2,2026-05-14,2026-05-25,Synthetic resolution details
+263,,Technical Issue,Low,Resolved,Synthetic technical issue support issue,2,2025-07-18,2025-07-29,Synthetic resolution details
+923,157,Other,Low,Resolved,Synthetic other support issue,1,2025-11-20,2025-12-04,Synthetic resolution details
+10,114,Billing,Medium,In Progress,Synthetic billing support issue,2,2025-12-06,,
+948,157,Billing,Medium,Open,Synthetic billing support issue,1,2026-09-14,,
+1724,72,Other,Low,Resolved,Synthetic other support issue,3,2026-10-04,2026-10-07,Synthetic resolution details
+155,,Other,Medium,Closed,Synthetic other support issue,3,2026-08-16,2026-08-29,Synthetic resolution details
+436,,Other,Medium,Closed,Synthetic other support issue,3,2026-07-07,2026-07-23,Synthetic resolution details
+1588,201,Technical Issue,High,Resolved,Synthetic technical issue support issue,2,2025-10-25,2025-10-30,Synthetic resolution details
+1027,204,Maintenance,Medium,Resolved,Synthetic maintenance support issue,1,2026-09-21,2026-10-13,Synthetic resolution details
+1551,229,Technical Issue,Low,Closed,Synthetic technical issue support issue,1,2026-11-07,2026-12-05,Synthetic resolution details
+1508,,Maintenance,Low,Resolved,Synthetic maintenance support issue,2,2025-08-26,2025-08-29,Synthetic resolution details
+757,106,Other,Critical,In Progress,Synthetic other support issue,2,2026-04-26,,
+1806,166,Installation,High,On Hold,Synthetic installation support issue,3,2025-10-08,,
+540,292,Technical Issue,Medium,In Progress,Synthetic technical issue support issue,3,2026-08-25,,
+1840,,Other,Medium,Closed,Synthetic other support issue,2,2025-08-17,2025-09-03,Synthetic resolution details
+723,,Maintenance,Medium,On Hold,Synthetic maintenance support issue,1,2026-09-11,,
+1028,,Billing,Low,Open,Synthetic billing support issue,2,2026-10-21,,
+434,81,Maintenance,Medium,Closed,Synthetic maintenance support issue,2,2026-11-08,2026-11-16,Synthetic resolution details
+1662,59,Billing,High,On Hold,Synthetic billing support issue,1,2026-08-28,,
+1326,,Installation,Medium,Open,Synthetic installation support issue,1,2026-08-30,,
+276,,Installation,High,Open,Synthetic installation support issue,2,2025-06-20,,
+1890,208,Other,Critical,Resolved,Synthetic other support issue,2,2026-11-09,2026-12-06,Synthetic resolution details
+1940,230,Other,Critical,Closed,Synthetic other support issue,2,2025-06-24,2025-07-02,Synthetic resolution details
+1231,299,Technical Issue,Medium,On Hold,Synthetic technical issue support issue,3,2025-06-21,,
+1405,233,Other,Medium,Open,Synthetic other support issue,1,2026-01-30,,
+223,268,Other,High,Closed,Synthetic other support issue,1,2026-09-13,2026-09-17,Synthetic resolution details
+975,,Other,Low,Resolved,Synthetic other support issue,1,2026-05-31,2026-06-25,Synthetic resolution details
+191,67,Other,Medium,Open,Synthetic other support issue,2,2026-10-27,,
+1070,23,Other,Medium,Closed,Synthetic other support issue,2,2026-05-09,2026-06-04,Synthetic resolution details
+718,295,Installation,Medium,In Progress,Synthetic installation support issue,1,2025-08-27,,
+581,279,Billing,Medium,Open,Synthetic billing support issue,3,2025-01-08,,
+1071,4,Billing,High,Resolved,Synthetic billing support issue,2,2025-11-20,2025-12-04,Synthetic resolution details
+219,300,Maintenance,Medium,On Hold,Synthetic maintenance support issue,2,2026-08-02,,
+1254,204,Technical Issue,Medium,Resolved,Synthetic technical issue support issue,2,2026-05-10,2026-05-16,Synthetic resolution details
+1146,130,Maintenance,Medium,Resolved,Synthetic maintenance support issue,1,2026-02-12,2026-03-08,Synthetic resolution details
+1752,,Installation,High,In Progress,Synthetic installation support issue,1,2025-06-15,,
+440,174,Other,Medium,Resolved,Synthetic other support issue,2,2025-02-23,2025-03-01,Synthetic resolution details
+1976,,Installation,High,On Hold,Synthetic installation support issue,2,2026-09-07,,
+181,114,Maintenance,Low,Open,Synthetic maintenance support issue,2,2026-01-29,,
+1258,,Maintenance,High,Resolved,Synthetic maintenance support issue,2,2025-06-29,2025-07-20,Synthetic resolution details
+900,266,Maintenance,Low,Resolved,Synthetic maintenance support issue,3,2026-06-07,2026-06-24,Synthetic resolution details
+475,,Installation,Medium,Resolved,Synthetic installation support issue,2,2025-06-11,2025-06-14,Synthetic resolution details
+1597,203,Billing,Medium,On Hold,Synthetic billing support issue,1,2025-03-12,,
+1126,287,Other,Medium,Closed,Synthetic other support issue,3,2025-10-11,2025-10-19,Synthetic resolution details
+1973,207,Other,Low,Open,Synthetic other support issue,1,2026-06-03,,
+1145,151,Maintenance,Critical,Closed,Synthetic maintenance support issue,3,2025-09-21,2025-10-20,Synthetic resolution details
+1666,,Maintenance,High,Closed,Synthetic maintenance support issue,1,2026-07-31,2026-08-16,Synthetic resolution details
+1552,235,Billing,High,Closed,Synthetic billing support issue,2,2026-05-09,2026-05-13,Synthetic resolution details
+139,113,Technical Issue,High,In Progress,Synthetic technical issue support issue,3,2025-12-28,,
+1098,135,Technical Issue,Medium,In Progress,Synthetic technical issue support issue,1,2025-12-17,,
+1136,,Billing,Medium,Open,Synthetic billing support issue,2,2026-08-11,,
+375,,Technical Issue,Medium,Open,Synthetic technical issue support issue,2,2025-09-05,,
+424,128,Other,Medium,Resolved,Synthetic other support issue,1,2025-05-03,2025-06-02,Synthetic resolution details
+1385,,Billing,Medium,Resolved,Synthetic billing support issue,2,2026-07-09,2026-07-11,Synthetic resolution details
+761,,Billing,High,Closed,Synthetic billing support issue,2,2026-08-12,2026-09-09,Synthetic resolution details
+1006,262,Maintenance,Medium,Resolved,Synthetic maintenance support issue,3,2025-05-12,2025-05-14,Synthetic resolution details
+1637,277,Installation,Medium,In Progress,Synthetic installation support issue,2,2025-06-28,,
+2000,266,Billing,Medium,Open,Synthetic billing support issue,2,2025-08-04,,
+1190,186,Other,High,Open,Synthetic other support issue,1,2025-09-27,,
+552,176,Maintenance,Low,In Progress,Synthetic maintenance support issue,3,2026-03-06,,
+1541,206,Maintenance,Medium,Resolved,Synthetic maintenance support issue,1,2026-08-13,2026-09-04,Synthetic resolution details
+1668,139,Technical Issue,Medium,Closed,Synthetic technical issue support issue,3,2025-07-20,2025-07-25,Synthetic resolution details
+307,5,Technical Issue,Medium,Open,Synthetic technical issue support issue,3,2026-10-08,,
+1094,,Billing,Medium,Resolved,Synthetic billing support issue,2,2026-08-05,2026-08-07,Synthetic resolution details
+203,,Installation,Medium,In Progress,Synthetic installation support issue,1,2026-10-07,,
+922,,Maintenance,Medium,Resolved,Synthetic maintenance support issue,1,2025-09-21,2025-10-03,Synthetic resolution details
+844,102,Other,Medium,Resolved,Synthetic other support issue,2,2025-06-28,2025-07-23,Synthetic resolution details
+728,262,Billing,High,In Progress,Synthetic billing support issue,2,2025-03-22,,
+1257,75,Technical Issue,Medium,Closed,Synthetic technical issue support issue,3,2026-03-08,2026-03-29,Synthetic resolution details
+1171,37,Installation,Low,Open,Synthetic installation support issue,3,2025-11-21,,
+597,,Other,Medium,In Progress,Synthetic other support issue,2,2026-04-01,,
+1532,231,Billing,Low,Closed,Synthetic billing support issue,1,2025-05-09,2025-06-02,Synthetic resolution details
+1356,41,Technical Issue,Low,Open,Synthetic technical issue support issue,2,2025-03-07,,
+1124,204,Other,High,Open,Synthetic other support issue,3,2025-09-26,,
+319,200,Maintenance,Medium,Resolved,Synthetic maintenance support issue,1,2026-03-30,2026-04-20,Synthetic resolution details
+269,88,Installation,Low,In Progress,Synthetic installation support issue,2,2025-11-30,,
+957,,Other,Critical,On Hold,Synthetic other support issue,3,2025-05-19,,
+1105,234,Other,Medium,Resolved,Synthetic other support issue,2,2026-07-01,2026-07-11,Synthetic resolution details
+987,46,Billing,Medium,In Progress,Synthetic billing support issue,2,2025-06-09,,
+22,70,Maintenance,Medium,On Hold,Synthetic maintenance support issue,2,2026-05-19,,
+614,221,Maintenance,Medium,Resolved,Synthetic maintenance support issue,1,2026-07-16,2026-07-28,Synthetic resolution details
+844,,Billing,Medium,Open,Synthetic billing support issue,2,2026-10-24,,
+1697,135,Installation,Medium,Open,Synthetic installation support issue,3,2026-09-20,,
+1403,273,Maintenance,Medium,Closed,Synthetic maintenance support issue,2,2025-07-06,2025-07-11,Synthetic resolution details
+227,,Other,Medium,Resolved,Synthetic other support issue,2,2026-05-19,2026-05-26,Synthetic resolution details
+40,274,Installation,Low,Open,Synthetic installation support issue,1,2025-10-03,,
+1465,5,Technical Issue,Low,Open,Synthetic technical issue support issue,2,2025-08-11,,
+861,256,Maintenance,Medium,Resolved,Synthetic maintenance support issue,1,2025-12-05,2025-12-08,Synthetic resolution details
+115,201,Installation,Medium,Open,Synthetic installation support issue,2,2025-09-14,,
+1697,128,Billing,High,In Progress,Synthetic billing support issue,1,2025-02-04,,
+944,,Installation,Medium,Closed,Synthetic installation support issue,3,2026-04-30,2026-05-13,Synthetic resolution details
+1969,166,Technical Issue,Medium,Open,Synthetic technical issue support issue,3,2026-07-17,,
+251,153,Technical Issue,Medium,Open,Synthetic technical issue support issue,1,2026-11-14,,
+1994,223,Maintenance,Low,Resolved,Synthetic maintenance support issue,2,2026-08-22,2026-08-26,Synthetic resolution details
+1617,22,Other,High,On Hold,Synthetic other support issue,1,2026-09-03,,
+761,,Technical Issue,Low,Open,Synthetic technical issue support issue,2,2026-09-26,,
+1907,,Installation,Low,Resolved,Synthetic installation support issue,1,2026-07-04,2026-07-30,Synthetic resolution details
+258,163,Other,High,Resolved,Synthetic other support issue,1,2026-03-26,2026-04-19,Synthetic resolution details
+44,,Maintenance,High,In Progress,Synthetic maintenance support issue,2,2025-02-10,,
+1448,151,Other,High,Open,Synthetic other support issue,3,2025-07-11,,
+713,240,Maintenance,High,Resolved,Synthetic maintenance support issue,1,2026-07-22,2026-07-28,Synthetic resolution details
+1088,152,Maintenance,Medium,On Hold,Synthetic maintenance support issue,3,2026-10-16,,
+777,,Installation,Medium,In Progress,Synthetic installation support issue,1,2026-09-28,,
+657,,Other,High,Open,Synthetic other support issue,3,2026-05-25,,
+316,,Maintenance,Medium,In Progress,Synthetic maintenance support issue,3,2025-04-09,,
+1350,67,Technical Issue,High,Open,Synthetic technical issue support issue,1,2026-05-13,,
+203,199,Billing,Medium,Resolved,Synthetic billing support issue,2,2025-09-20,2025-09-22,Synthetic resolution details
+453,,Installation,Low,Closed,Synthetic installation support issue,1,2026-11-03,2026-11-19,Synthetic resolution details
+959,,Installation,Medium,Resolved,Synthetic installation support issue,2,2026-03-02,2026-03-29,Synthetic resolution details
+1627,,Other,Medium,Open,Synthetic other support issue,2,2025-03-14,,
+160,,Other,Low,Resolved,Synthetic other support issue,1,2026-06-29,2026-07-12,Synthetic resolution details
+396,128,Other,Medium,Open,Synthetic other support issue,2,2026-07-26,,
+1529,296,Maintenance,High,Resolved,Synthetic maintenance support issue,1,2026-03-14,2026-04-12,Synthetic resolution details
+342,,Other,Medium,In Progress,Synthetic other support issue,3,2025-06-11,,
+1229,181,Maintenance,Medium,Closed,Synthetic maintenance support issue,3,2026-01-16,2026-01-30,Synthetic resolution details
+882,,Maintenance,Medium,Resolved,Synthetic maintenance support issue,3,2025-08-08,2025-08-21,Synthetic resolution details
+1897,,Maintenance,Critical,In Progress,Synthetic maintenance support issue,1,2026-02-11,,
+1488,146,Other,Low,Open,Synthetic other support issue,1,2025-11-06,,
+616,,Technical Issue,High,Open,Synthetic technical issue support issue,3,2025-10-10,,
+1048,293,Technical Issue,Low,On Hold,Synthetic technical issue support issue,1,2025-06-09,,
+543,299,Technical Issue,Medium,Closed,Synthetic technical issue support issue,2,2025-04-05,2025-04-24,Synthetic resolution details
+1166,,Installation,High,Resolved,Synthetic installation support issue,3,2025-06-27,2025-07-13,Synthetic resolution details
+1440,49,Other,Medium,Open,Synthetic other support issue,2,2026-08-14,,
+161,,Maintenance,Medium,Closed,Synthetic maintenance support issue,1,2026-03-03,2026-04-02,Synthetic resolution details
+1782,,Other,Critical,Resolved,Synthetic other support issue,1,2026-10-10,2026-10-23,Synthetic resolution details
+625,164,Other,Medium,In Progress,Synthetic other support issue,1,2025-08-15,,
+104,,Billing,Critical,Resolved,Synthetic billing support issue,1,2026-08-13,2026-08-30,Synthetic resolution details
+455,202,Technical Issue,Low,Open,Synthetic technical issue support issue,3,2026-08-09,,
+101,135,Installation,Medium,In Progress,Synthetic installation support issue,1,2025-05-14,,
+985,250,Billing,High,Open,Synthetic billing support issue,3,2026-09-23,,
+1074,37,Maintenance,High,In Progress,Synthetic maintenance support issue,1,2026-08-13,,
+231,,Billing,Medium,Open,Synthetic billing support issue,3,2025-12-19,,
+1343,157,Technical Issue,Critical,Resolved,Synthetic technical issue support issue,1,2026-03-29,2026-04-18,Synthetic resolution details
+903,120,Technical Issue,High,Open,Synthetic technical issue support issue,1,2025-03-29,,
+1515,76,Maintenance,Low,Resolved,Synthetic maintenance support issue,2,2025-04-24,2025-05-04,Synthetic resolution details
+965,108,Other,Medium,On Hold,Synthetic other support issue,3,2025-09-22,,
+990,,Technical Issue,High,Resolved,Synthetic technical issue support issue,3,2026-01-21,2026-02-09,Synthetic resolution details
+1079,88,Installation,Medium,Resolved,Synthetic installation support issue,1,2026-09-25,2026-10-04,Synthetic resolution details
+953,,Installation,Low,Resolved,Synthetic installation support issue,3,2026-11-10,2026-12-08,Synthetic resolution details
+738,,Installation,Medium,Closed,Synthetic installation support issue,2,2026-01-31,2026-02-08,Synthetic resolution details
+1042,,Installation,Critical,On Hold,Synthetic installation support issue,3,2026-09-04,,
+181,257,Billing,Medium,Resolved,Synthetic billing support issue,3,2025-02-10,2025-02-18,Synthetic resolution details
+625,202,Technical Issue,Low,Resolved,Synthetic technical issue support issue,2,2025-12-30,2026-01-20,Synthetic resolution details
+484,,Other,Medium,Open,Synthetic other support issue,2,2025-09-21,,
+1824,,Installation,Critical,Closed,Synthetic installation support issue,2,2025-08-19,2025-08-24,Synthetic resolution details
+1838,71,Installation,High,On Hold,Synthetic installation support issue,3,2026-09-20,,
+1406,124,Other,Low,Closed,Synthetic other support issue,2,2026-09-12,2026-09-23,Synthetic resolution details
+1111,71,Other,Medium,Closed,Synthetic other support issue,3,2025-05-22,2025-06-01,Synthetic resolution details
+1445,,Technical Issue,Medium,Closed,Synthetic technical issue support issue,3,2025-05-29,2025-06-19,Synthetic resolution details
+1879,35,Other,Medium,Resolved,Synthetic other support issue,1,2025-07-08,2025-07-19,Synthetic resolution details
+1490,164,Billing,Critical,In Progress,Synthetic billing support issue,3,2026-10-15,,
+561,97,Installation,Low,Open,Synthetic installation support issue,3,2026-09-19,,
+547,,Other,Medium,Open,Synthetic other support issue,2,2025-01-27,,
+163,,Billing,Low,Closed,Synthetic billing support issue,3,2026-04-26,2026-05-19,Synthetic resolution details
+766,199,Billing,Medium,Open,Synthetic billing support issue,1,2025-08-20,,
+837,,Installation,Critical,Closed,Synthetic installation support issue,3,2025-08-16,2025-09-09,Synthetic resolution details
+416,,Installation,Low,Closed,Synthetic installation support issue,3,2026-03-26,2026-04-23,Synthetic resolution details
+1004,,Billing,High,In Progress,Synthetic billing support issue,3,2025-02-12,,
+1506,,Maintenance,Medium,Closed,Synthetic maintenance support issue,3,2026-08-09,2026-08-29,Synthetic resolution details
+1076,,Installation,Medium,On Hold,Synthetic installation support issue,1,2025-02-13,,
+1063,21,Other,Medium,Resolved,Synthetic other support issue,2,2025-02-20,2025-02-27,Synthetic resolution details
+901,156,Maintenance,Medium,In Progress,Synthetic maintenance support issue,1,2026-09-20,,
+1414,73,Billing,High,On Hold,Synthetic billing support issue,1,2026-05-28,,
+369,,Other,Low,In Progress,Synthetic other support issue,1,2026-04-07,,
+367,104,Billing,Low,In Progress,Synthetic billing support issue,3,2026-10-27,,
+1632,64,Installation,Low,In Progress,Synthetic installation support issue,1,2026-01-07,,
+1073,,Other,Medium,Open,Synthetic other support issue,2,2026-07-18,,
+90,,Maintenance,Medium,Resolved,Synthetic maintenance support issue,1,2025-06-03,2025-06-09,Synthetic resolution details
+367,,Installation,Medium,In Progress,Synthetic installation support issue,2,2026-04-02,,
+1283,68,Technical Issue,Low,Resolved,Synthetic technical issue support issue,2,2025-01-13,2025-01-28,Synthetic resolution details
+1752,3,Other,High,Open,Synthetic other support issue,3,2026-08-26,,
+975,227,Installation,Medium,Open,Synthetic installation support issue,2,2026-07-15,,
+1270,,Technical Issue,Low,Open,Synthetic technical issue support issue,2,2026-10-31,,
+76,17,Other,High,In Progress,Synthetic other support issue,1,2025-03-31,,
+224,92,Technical Issue,High,Resolved,Synthetic technical issue support issue,3,2026-09-02,2026-09-21,Synthetic resolution details
+364,,Other,Medium,Open,Synthetic other support issue,2,2025-11-03,,
+755,,Installation,High,Closed,Synthetic installation support issue,2,2025-03-08,2025-03-18,Synthetic resolution details
+276,141,Maintenance,Medium,On Hold,Synthetic maintenance support issue,3,2025-08-03,,
+120,271,Installation,Medium,Resolved,Synthetic installation support issue,3,2025-10-22,2025-11-05,Synthetic resolution details
+1737,270,Other,Critical,In Progress,Synthetic other support issue,3,2025-05-13,,
+1153,255,Billing,High,Closed,Synthetic billing support issue,2,2025-08-27,2025-09-19,Synthetic resolution details
+397,13,Billing,Medium,Open,Synthetic billing support issue,3,2025-08-01,,
+850,171,Maintenance,Medium,Resolved,Synthetic maintenance support issue,1,2025-01-12,2025-02-02,Synthetic resolution details
+1414,35,Maintenance,Medium,On Hold,Synthetic maintenance support issue,1,2025-01-07,,
+1405,203,Other,Medium,Open,Synthetic other support issue,1,2025-06-29,,
+677,,Billing,Critical,Resolved,Synthetic billing support issue,2,2026-10-24,2026-10-29,Synthetic resolution details
+319,,Other,High,On Hold,Synthetic other support issue,3,2026-02-28,,
+115,,Maintenance,Medium,Resolved,Synthetic maintenance support issue,1,2026-07-23,2026-08-10,Synthetic resolution details
+427,170,Maintenance,Low,Open,Synthetic maintenance support issue,2,2025-02-01,,
+769,,Technical Issue,Medium,In Progress,Synthetic technical issue support issue,1,2026-09-02,,
+1771,,Maintenance,High,In Progress,Synthetic maintenance support issue,2,2025-02-02,,
+848,122,Maintenance,Medium,Closed,Synthetic maintenance support issue,2,2025-08-10,2025-08-27,Synthetic resolution details
+359,20,Technical Issue,Critical,In Progress,Synthetic technical issue support issue,2,2025-01-26,,
+1854,98,Maintenance,Critical,Resolved,Synthetic maintenance support issue,2,2026-06-21,2026-07-01,Synthetic resolution details
+294,,Installation,High,Closed,Synthetic installation support issue,3,2025-05-16,2025-05-23,Synthetic resolution details
+75,268,Installation,Low,Closed,Synthetic installation support issue,1,2026-09-01,2026-09-29,Synthetic resolution details
+683,24,Installation,Medium,Resolved,Synthetic installation support issue,3,2025-11-16,2025-11-17,Synthetic resolution details
+1554,108,Maintenance,Medium,In Progress,Synthetic maintenance support issue,2,2026-06-30,,
+1583,61,Maintenance,Low,In Progress,Synthetic maintenance support issue,3,2025-01-16,,
+1147,106,Other,Medium,In Progress,Synthetic other support issue,3,2025-05-25,,
+1647,126,Technical Issue,Low,Resolved,Synthetic technical issue support issue,2,2025-12-13,2025-12-31,Synthetic resolution details
+104,242,Installation,Low,Open,Synthetic installation support issue,2,2026-03-13,,
+367,,Other,Medium,Resolved,Synthetic other support issue,2,2026-04-02,2026-04-22,Synthetic resolution details
+640,102,Other,Low,Closed,Synthetic other support issue,1,2026-04-22,2026-05-11,Synthetic resolution details

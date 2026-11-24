@@ -1,0 +1,300 @@
+quotation_id,installation_status,scheduled_date,actual_start_date,completion_date,installation_address,installation_team,installation_notes
+,Completed,2026-07-30,2026-08-03,2026-08-16,"580, Solar Street, Vijayawada",Installation Team D,Synthetic installation record 1
+,On Hold,2026-02-26,2026-03-04,,"263, Solar Street, Jaipur",Installation Team C,Synthetic installation record 2
+,On Hold,2025-08-06,2025-08-12,,"810, Solar Street, Bengaluru",Installation Team A,Synthetic installation record 3
+,In Progress,2026-09-27,2026-09-27,,"315, Solar Street, Mumbai",Installation Team B,Synthetic installation record 4
+,On Hold,2025-08-13,2025-08-14,,"95, Solar Street, Vijayawada",Installation Team C,Synthetic installation record 5
+,Scheduled,2026-09-03,,,"792, Solar Street, Vijayawada",Installation Team D,Synthetic installation record 6
+,Cancelled,2026-07-01,,,"63, Solar Street, Hyderabad",Installation Team A,Synthetic installation record 7
+,Scheduled,2025-08-22,,,"563, Solar Street, Bengaluru",Installation Team C,Synthetic installation record 8
+,Scheduled,2026-09-27,,,"336, Solar Street, Chennai",Installation Team D,Synthetic installation record 9
+,On Hold,2025-01-31,2025-02-03,,"433, Solar Street, Vijayawada",Installation Team C,Synthetic installation record 10
+,On Hold,2025-10-11,2025-10-18,,"313, Solar Street, Bengaluru",Installation Team C,Synthetic installation record 11
+,Cancelled,2025-10-27,,,"262, Solar Street, Ahmedabad",Installation Team B,Synthetic installation record 12
+,Completed,2026-09-18,2026-09-18,2026-10-03,"78, Solar Street, Vijayawada",Installation Team A,Synthetic installation record 13
+,In Progress,2025-10-14,2025-10-20,,"968, Solar Street, Kochi",Installation Team D,Synthetic installation record 14
+,Scheduled,2026-02-08,,,"672, Solar Street, Delhi",Installation Team C,Synthetic installation record 15
+,On Hold,2026-07-14,2026-07-19,,"471, Solar Street, Kochi",Installation Team A,Synthetic installation record 16
+,Cancelled,2025-06-05,,,"613, Solar Street, Chennai",Installation Team D,Synthetic installation record 17
+,On Hold,2025-01-27,2025-01-27,,"407, Solar Street, Hyderabad",Installation Team A,Synthetic installation record 18
+,Scheduled,2025-02-13,,,"298, Solar Street, Hyderabad",Installation Team C,Synthetic installation record 19
+,Scheduled,2025-12-19,,,"254, Solar Street, Hyderabad",Installation Team B,Synthetic installation record 20
+,On Hold,2025-08-01,2025-08-04,,"594, Solar Street, Jaipur",Installation Team D,Synthetic installation record 21
+,In Progress,2025-11-04,2025-11-04,,"675, Solar Street, Hyderabad",Installation Team A,Synthetic installation record 22
+,Cancelled,2026-05-30,,,"756, Solar Street, Kochi",Installation Team D,Synthetic installation record 23
+,On Hold,2026-08-25,2026-08-30,,"712, Solar Street, Pune",Installation Team B,Synthetic installation record 24
+,Completed,2026-06-07,2026-06-12,2026-06-13,"656, Solar Street, Jaipur",Installation Team D,Synthetic installation record 25
+,On Hold,2025-07-07,2025-07-09,,"833, Solar Street, Ahmedabad",Installation Team B,Synthetic installation record 26
+,Scheduled,2025-03-24,,,"788, Solar Street, Bengaluru",Installation Team A,Synthetic installation record 27
+,Scheduled,2026-08-04,,,"81, Solar Street, Vijayawada",Installation Team D,Synthetic installation record 28
+,Scheduled,2025-06-02,,,"564, Solar Street, Jaipur",Installation Team B,Synthetic installation record 29
+,In Progress,2026-04-26,2026-04-29,,"275, Solar Street, Pune",Installation Team B,Synthetic installation record 30
+,Completed,2025-06-10,2025-06-17,2025-06-19,"914, Solar Street, Chennai",Installation Team B,Synthetic installation record 31
+,Scheduled,2025-11-16,,,"302, Solar Street, Chennai",Installation Team A,Synthetic installation record 32
+,On Hold,2025-06-03,2025-06-03,,"693, Solar Street, Mumbai",Installation Team C,Synthetic installation record 33
+,On Hold,2025-07-12,2025-07-15,,"932, Solar Street, Hyderabad",Installation Team D,Synthetic installation record 34
+,In Progress,2026-05-28,2026-05-28,,"399, Solar Street, Hyderabad",Installation Team A,Synthetic installation record 35
+,Scheduled,2025-01-28,,,"367, Solar Street, Ahmedabad",Installation Team A,Synthetic installation record 36
+,Completed,2025-06-06,2025-06-10,2025-06-22,"771, Solar Street, Chennai",Installation Team D,Synthetic installation record 37
+,In Progress,2026-06-19,2026-06-24,,"482, Solar Street, Chennai",Installation Team D,Synthetic installation record 38
+,On Hold,2026-10-17,2026-10-19,,"418, Solar Street, Mumbai",Installation Team D,Synthetic installation record 39
+,Cancelled,2026-05-28,,,"75, Solar Street, Mumbai",Installation Team C,Synthetic installation record 40
+,Scheduled,2026-04-01,,,"428, Solar Street, Vijayawada",Installation Team D,Synthetic installation record 41
+,Cancelled,2026-06-21,,,"933, Solar Street, Chennai",Installation Team B,Synthetic installation record 42
+,Completed,2026-04-16,2026-04-22,2026-05-06,"152, Solar Street, Hyderabad",Installation Team D,Synthetic installation record 43
+,Completed,2026-07-10,2026-07-13,2026-07-14,"67, Solar Street, Pune",Installation Team B,Synthetic installation record 44
+,Cancelled,2026-06-01,,,"29, Solar Street, Delhi",Installation Team C,Synthetic installation record 45
+,Scheduled,2026-01-22,,,"512, Solar Street, Vijayawada",Installation Team D,Synthetic installation record 46
+,Cancelled,2026-04-07,,,"968, Solar Street, Hyderabad",Installation Team C,Synthetic installation record 47
+,On Hold,2025-07-20,2025-07-24,,"910, Solar Street, Hyderabad",Installation Team B,Synthetic installation record 48
+,Cancelled,2026-07-16,,,"740, Solar Street, Ahmedabad",Installation Team B,Synthetic installation record 49
+,Completed,2026-07-14,2026-07-17,2026-08-01,"569, Solar Street, Chennai",Installation Team D,Synthetic installation record 50
+,Cancelled,2025-07-13,,,"844, Solar Street, Hyderabad",Installation Team A,Synthetic installation record 51
+,On Hold,2025-07-21,2025-07-22,,"909, Solar Street, Mumbai",Installation Team D,Synthetic installation record 52
+,Cancelled,2026-04-30,,,"870, Solar Street, Vijayawada",Installation Team D,Synthetic installation record 53
+,Scheduled,2026-06-29,,,"739, Solar Street, Bengaluru",Installation Team A,Synthetic installation record 54
+,In Progress,2026-03-11,2026-03-15,,"745, Solar Street, Ahmedabad",Installation Team C,Synthetic installation record 55
+,On Hold,2025-01-15,2025-01-15,,"463, Solar Street, Delhi",Installation Team C,Synthetic installation record 56
+,Completed,2025-03-02,2025-03-02,2025-03-12,"204, Solar Street, Mumbai",Installation Team B,Synthetic installation record 57
+,Cancelled,2025-01-14,,,"544, Solar Street, Delhi",Installation Team C,Synthetic installation record 58
+,Completed,2025-07-04,2025-07-07,2025-07-19,"428, Solar Street, Bengaluru",Installation Team B,Synthetic installation record 59
+,On Hold,2025-12-14,2025-12-18,,"769, Solar Street, Jaipur",Installation Team A,Synthetic installation record 60
+,Completed,2025-06-09,2025-06-09,2025-06-18,"670, Solar Street, Bengaluru",Installation Team A,Synthetic installation record 61
+,Scheduled,2025-01-14,,,"732, Solar Street, Ahmedabad",Installation Team D,Synthetic installation record 62
+,Scheduled,2026-06-09,,,"514, Solar Street, Chennai",Installation Team A,Synthetic installation record 63
+,In Progress,2026-02-15,2026-02-19,,"216, Solar Street, Hyderabad",Installation Team B,Synthetic installation record 64
+,Cancelled,2025-03-12,,,"684, Solar Street, Hyderabad",Installation Team C,Synthetic installation record 65
+,Completed,2025-11-30,2025-12-04,2025-12-07,"752, Solar Street, Delhi",Installation Team D,Synthetic installation record 66
+,On Hold,2026-08-03,2026-08-10,,"293, Solar Street, Mumbai",Installation Team A,Synthetic installation record 67
+,In Progress,2026-02-12,2026-02-12,,"907, Solar Street, Jaipur",Installation Team C,Synthetic installation record 68
+,Completed,2026-10-08,2026-10-15,2026-10-23,"24, Solar Street, Pune",Installation Team C,Synthetic installation record 69
+,Scheduled,2025-01-21,,,"671, Solar Street, Kochi",Installation Team A,Synthetic installation record 70
+,Completed,2026-09-19,2026-09-26,2026-10-02,"539, Solar Street, Bengaluru",Installation Team D,Synthetic installation record 71
+,Completed,2025-03-06,2025-03-10,2025-03-16,"217, Solar Street, Pune",Installation Team A,Synthetic installation record 72
+,Completed,2025-03-10,2025-03-14,2025-03-15,"8, Solar Street, Kochi",Installation Team A,Synthetic installation record 73
+,Completed,2025-12-10,2025-12-16,2025-12-28,"306, Solar Street, Chennai",Installation Team A,Synthetic installation record 74
+,Cancelled,2025-12-15,,,"953, Solar Street, Jaipur",Installation Team A,Synthetic installation record 75
+,Scheduled,2026-09-23,,,"379, Solar Street, Ahmedabad",Installation Team C,Synthetic installation record 76
+,Completed,2026-05-16,2026-05-19,2026-06-02,"854, Solar Street, Pune",Installation Team C,Synthetic installation record 77
+,Scheduled,2025-04-10,,,"732, Solar Street, Hyderabad",Installation Team A,Synthetic installation record 78
+,Completed,2026-06-15,2026-06-19,2026-06-25,"312, Solar Street, Delhi",Installation Team A,Synthetic installation record 79
+,In Progress,2026-02-14,2026-02-15,,"484, Solar Street, Pune",Installation Team C,Synthetic installation record 80
+,In Progress,2026-08-02,2026-08-05,,"809, Solar Street, Bengaluru",Installation Team A,Synthetic installation record 81
+,In Progress,2025-09-23,2025-09-28,,"514, Solar Street, Ahmedabad",Installation Team D,Synthetic installation record 82
+,Scheduled,2026-07-19,,,"160, Solar Street, Mumbai",Installation Team A,Synthetic installation record 83
+,On Hold,2025-11-21,2025-11-26,,"910, Solar Street, Delhi",Installation Team A,Synthetic installation record 84
+,Scheduled,2025-02-16,,,"337, Solar Street, Bengaluru",Installation Team B,Synthetic installation record 85
+,In Progress,2026-09-23,2026-09-23,,"281, Solar Street, Kochi",Installation Team D,Synthetic installation record 86
+,Cancelled,2025-04-29,,,"840, Solar Street, Ahmedabad",Installation Team B,Synthetic installation record 87
+,Cancelled,2026-07-26,,,"803, Solar Street, Jaipur",Installation Team B,Synthetic installation record 88
+,Completed,2025-07-14,2025-07-18,2025-07-25,"496, Solar Street, Pune",Installation Team A,Synthetic installation record 89
+,Cancelled,2026-10-02,,,"502, Solar Street, Bengaluru",Installation Team B,Synthetic installation record 90
+,In Progress,2026-03-07,2026-03-13,,"791, Solar Street, Bengaluru",Installation Team B,Synthetic installation record 91
+,Completed,2025-09-28,2025-10-02,2025-10-16,"849, Solar Street, Delhi",Installation Team B,Synthetic installation record 92
+,In Progress,2026-06-07,2026-06-07,,"976, Solar Street, Vijayawada",Installation Team C,Synthetic installation record 93
+,Scheduled,2025-10-23,,,"654, Solar Street, Vijayawada",Installation Team D,Synthetic installation record 94
+,Cancelled,2026-03-18,,,"142, Solar Street, Mumbai",Installation Team D,Synthetic installation record 95
+,Cancelled,2025-05-31,,,"992, Solar Street, Vijayawada",Installation Team C,Synthetic installation record 96
+,In Progress,2026-07-31,2026-08-03,,"455, Solar Street, Delhi",Installation Team C,Synthetic installation record 97
+,In Progress,2026-09-27,2026-09-30,,"201, Solar Street, Ahmedabad",Installation Team B,Synthetic installation record 98
+,Cancelled,2026-07-20,,,"588, Solar Street, Ahmedabad",Installation Team B,Synthetic installation record 99
+,In Progress,2026-09-16,2026-09-19,,"196, Solar Street, Bengaluru",Installation Team C,Synthetic installation record 100
+,Scheduled,2025-06-23,,,"229, Solar Street, Jaipur",Installation Team A,Synthetic installation record 101
+,Cancelled,2026-03-13,,,"410, Solar Street, Bengaluru",Installation Team C,Synthetic installation record 102
+,Completed,2025-09-23,2025-09-25,2025-10-09,"388, Solar Street, Pune",Installation Team D,Synthetic installation record 103
+,Cancelled,2026-08-25,,,"662, Solar Street, Vijayawada",Installation Team D,Synthetic installation record 104
+,In Progress,2025-05-26,2025-05-26,,"209, Solar Street, Ahmedabad",Installation Team A,Synthetic installation record 105
+,On Hold,2026-02-18,2026-02-23,,"999, Solar Street, Ahmedabad",Installation Team D,Synthetic installation record 106
+,Cancelled,2026-08-31,,,"517, Solar Street, Mumbai",Installation Team A,Synthetic installation record 107
+,Cancelled,2025-08-18,,,"968, Solar Street, Pune",Installation Team B,Synthetic installation record 108
+,Completed,2025-06-26,2025-07-03,2025-07-11,"433, Solar Street, Chennai",Installation Team B,Synthetic installation record 109
+,Scheduled,2026-06-18,,,"294, Solar Street, Pune",Installation Team A,Synthetic installation record 110
+,Scheduled,2025-04-21,,,"433, Solar Street, Kochi",Installation Team D,Synthetic installation record 111
+,In Progress,2026-04-26,2026-05-03,,"333, Solar Street, Jaipur",Installation Team D,Synthetic installation record 112
+,In Progress,2025-08-02,2025-08-04,,"116, Solar Street, Hyderabad",Installation Team A,Synthetic installation record 113
+,Completed,2026-03-15,2026-03-17,2026-03-30,"412, Solar Street, Bengaluru",Installation Team C,Synthetic installation record 114
+,Completed,2026-03-23,2026-03-23,2026-03-26,"122, Solar Street, Mumbai",Installation Team B,Synthetic installation record 115
+,In Progress,2026-07-25,2026-07-29,,"467, Solar Street, Chennai",Installation Team C,Synthetic installation record 116
+,Cancelled,2026-09-12,,,"804, Solar Street, Pune",Installation Team A,Synthetic installation record 117
+,Cancelled,2025-01-31,,,"850, Solar Street, Jaipur",Installation Team C,Synthetic installation record 118
+,In Progress,2026-01-18,2026-01-18,,"93, Solar Street, Jaipur",Installation Team A,Synthetic installation record 119
+,In Progress,2025-01-22,2025-01-28,,"341, Solar Street, Mumbai",Installation Team D,Synthetic installation record 120
+,Scheduled,2026-03-06,,,"227, Solar Street, Delhi",Installation Team B,Synthetic installation record 121
+,Completed,2026-08-04,2026-08-10,2026-08-19,"413, Solar Street, Ahmedabad",Installation Team B,Synthetic installation record 122
+,Scheduled,2025-11-06,,,"943, Solar Street, Bengaluru",Installation Team D,Synthetic installation record 123
+,On Hold,2025-05-03,2025-05-08,,"891, Solar Street, Pune",Installation Team C,Synthetic installation record 124
+,In Progress,2025-07-27,2025-07-30,,"371, Solar Street, Chennai",Installation Team B,Synthetic installation record 125
+,Completed,2026-09-17,2026-09-17,2026-09-28,"567, Solar Street, Pune",Installation Team A,Synthetic installation record 126
+,On Hold,2025-07-03,2025-07-06,,"569, Solar Street, Hyderabad",Installation Team C,Synthetic installation record 127
+,Cancelled,2026-10-04,,,"421, Solar Street, Pune",Installation Team B,Synthetic installation record 128
+,Scheduled,2026-01-07,,,"368, Solar Street, Bengaluru",Installation Team D,Synthetic installation record 129
+,Completed,2025-09-12,2025-09-12,2025-09-18,"371, Solar Street, Vijayawada",Installation Team D,Synthetic installation record 130
+,Cancelled,2025-06-11,,,"662, Solar Street, Mumbai",Installation Team D,Synthetic installation record 131
+,In Progress,2025-09-03,2025-09-06,,"889, Solar Street, Pune",Installation Team A,Synthetic installation record 132
+,Scheduled,2025-12-13,,,"57, Solar Street, Ahmedabad",Installation Team D,Synthetic installation record 133
+,Completed,2026-05-29,2026-06-05,2026-06-13,"828, Solar Street, Mumbai",Installation Team D,Synthetic installation record 134
+,On Hold,2026-01-27,2026-01-29,,"317, Solar Street, Vijayawada",Installation Team A,Synthetic installation record 135
+,In Progress,2025-01-19,2025-01-23,,"590, Solar Street, Vijayawada",Installation Team C,Synthetic installation record 136
+,Completed,2025-07-02,2025-07-05,2025-07-14,"774, Solar Street, Mumbai",Installation Team C,Synthetic installation record 137
+,Scheduled,2025-12-22,,,"730, Solar Street, Chennai",Installation Team C,Synthetic installation record 138
+,Scheduled,2025-10-06,,,"263, Solar Street, Pune",Installation Team B,Synthetic installation record 139
+,Cancelled,2026-09-25,,,"557, Solar Street, Jaipur",Installation Team D,Synthetic installation record 140
+,Scheduled,2025-09-14,,,"890, Solar Street, Delhi",Installation Team B,Synthetic installation record 141
+,In Progress,2026-07-07,2026-07-14,,"88, Solar Street, Chennai",Installation Team A,Synthetic installation record 142
+,Scheduled,2026-02-20,,,"380, Solar Street, Hyderabad",Installation Team B,Synthetic installation record 143
+,In Progress,2026-09-08,2026-09-08,,"105, Solar Street, Chennai",Installation Team A,Synthetic installation record 144
+,In Progress,2025-12-03,2025-12-06,,"745, Solar Street, Chennai",Installation Team A,Synthetic installation record 145
+,In Progress,2026-07-25,2026-07-30,,"872, Solar Street, Ahmedabad",Installation Team B,Synthetic installation record 146
+,Completed,2025-12-22,2025-12-28,2026-01-07,"615, Solar Street, Ahmedabad",Installation Team B,Synthetic installation record 147
+,Cancelled,2025-05-09,,,"556, Solar Street, Jaipur",Installation Team D,Synthetic installation record 148
+,On Hold,2025-04-28,2025-05-05,,"407, Solar Street, Jaipur",Installation Team A,Synthetic installation record 149
+,On Hold,2026-03-10,2026-03-12,,"813, Solar Street, Vijayawada",Installation Team B,Synthetic installation record 150
+,In Progress,2025-06-05,2025-06-07,,"438, Solar Street, Kochi",Installation Team B,Synthetic installation record 151
+,On Hold,2026-07-19,2026-07-25,,"659, Solar Street, Hyderabad",Installation Team B,Synthetic installation record 152
+,On Hold,2025-05-10,2025-05-13,,"160, Solar Street, Chennai",Installation Team C,Synthetic installation record 153
+,On Hold,2026-05-13,2026-05-15,,"855, Solar Street, Mumbai",Installation Team D,Synthetic installation record 154
+,Completed,2025-04-15,2025-04-17,2025-04-20,"58, Solar Street, Chennai",Installation Team C,Synthetic installation record 155
+,Cancelled,2025-06-20,,,"324, Solar Street, Ahmedabad",Installation Team C,Synthetic installation record 156
+,In Progress,2026-07-10,2026-07-17,,"980, Solar Street, Jaipur",Installation Team A,Synthetic installation record 157
+,In Progress,2025-01-07,2025-01-07,,"836, Solar Street, Vijayawada",Installation Team A,Synthetic installation record 158
+,Cancelled,2025-05-08,,,"753, Solar Street, Pune",Installation Team B,Synthetic installation record 159
+,Cancelled,2026-11-01,,,"468, Solar Street, Pune",Installation Team B,Synthetic installation record 160
+,In Progress,2026-06-23,2026-06-26,,"747, Solar Street, Pune",Installation Team D,Synthetic installation record 161
+,On Hold,2025-01-23,2025-01-23,,"56, Solar Street, Kochi",Installation Team D,Synthetic installation record 162
+,Completed,2026-03-07,2026-03-07,2026-03-20,"614, Solar Street, Jaipur",Installation Team C,Synthetic installation record 163
+,Cancelled,2026-02-23,,,"376, Solar Street, Jaipur",Installation Team D,Synthetic installation record 164
+,On Hold,2026-02-09,2026-02-09,,"846, Solar Street, Hyderabad",Installation Team B,Synthetic installation record 165
+,Scheduled,2026-08-08,,,"413, Solar Street, Jaipur",Installation Team C,Synthetic installation record 166
+,Cancelled,2026-08-31,,,"998, Solar Street, Vijayawada",Installation Team A,Synthetic installation record 167
+,Completed,2026-10-24,2026-10-30,2026-11-02,"30, Solar Street, Bengaluru",Installation Team B,Synthetic installation record 168
+,In Progress,2026-09-14,2026-09-21,,"782, Solar Street, Hyderabad",Installation Team B,Synthetic installation record 169
+,In Progress,2026-08-23,2026-08-27,,"352, Solar Street, Jaipur",Installation Team A,Synthetic installation record 170
+,On Hold,2026-05-13,2026-05-17,,"632, Solar Street, Chennai",Installation Team A,Synthetic installation record 171
+,On Hold,2026-07-08,2026-07-11,,"419, Solar Street, Mumbai",Installation Team D,Synthetic installation record 172
+,Completed,2025-02-27,2025-03-05,2025-03-09,"20, Solar Street, Jaipur",Installation Team C,Synthetic installation record 173
+,Scheduled,2025-12-23,,,"269, Solar Street, Pune",Installation Team C,Synthetic installation record 174
+,On Hold,2025-12-25,2025-12-25,,"840, Solar Street, Kochi",Installation Team C,Synthetic installation record 175
+,In Progress,2025-04-08,2025-04-12,,"765, Solar Street, Chennai",Installation Team A,Synthetic installation record 176
+,In Progress,2025-09-25,2025-10-01,,"434, Solar Street, Chennai",Installation Team A,Synthetic installation record 177
+,Scheduled,2025-07-01,,,"221, Solar Street, Bengaluru",Installation Team B,Synthetic installation record 178
+,In Progress,2025-10-20,2025-10-25,,"760, Solar Street, Chennai",Installation Team A,Synthetic installation record 179
+,In Progress,2026-10-24,2026-10-25,,"281, Solar Street, Delhi",Installation Team C,Synthetic installation record 180
+,Scheduled,2025-06-25,,,"63, Solar Street, Pune",Installation Team A,Synthetic installation record 181
+,In Progress,2025-12-16,2025-12-20,,"893, Solar Street, Kochi",Installation Team C,Synthetic installation record 182
+,Scheduled,2026-09-15,,,"550, Solar Street, Kochi",Installation Team C,Synthetic installation record 183
+,In Progress,2025-10-19,2025-10-25,,"647, Solar Street, Kochi",Installation Team B,Synthetic installation record 184
+,On Hold,2025-03-06,2025-03-09,,"829, Solar Street, Ahmedabad",Installation Team A,Synthetic installation record 185
+,In Progress,2025-01-28,2025-01-31,,"784, Solar Street, Pune",Installation Team B,Synthetic installation record 186
+,Scheduled,2025-02-12,,,"850, Solar Street, Bengaluru",Installation Team D,Synthetic installation record 187
+,In Progress,2026-10-11,2026-10-11,,"906, Solar Street, Hyderabad",Installation Team B,Synthetic installation record 188
+,In Progress,2025-01-10,2025-01-17,,"959, Solar Street, Ahmedabad",Installation Team C,Synthetic installation record 189
+,On Hold,2025-09-08,2025-09-09,,"835, Solar Street, Jaipur",Installation Team A,Synthetic installation record 190
+,Scheduled,2025-09-30,,,"102, Solar Street, Bengaluru",Installation Team A,Synthetic installation record 191
+,Cancelled,2026-05-12,,,"760, Solar Street, Pune",Installation Team B,Synthetic installation record 192
+,Cancelled,2025-11-08,,,"737, Solar Street, Delhi",Installation Team B,Synthetic installation record 193
+,Completed,2026-10-16,2026-10-18,2026-11-02,"828, Solar Street, Pune",Installation Team B,Synthetic installation record 194
+,Scheduled,2026-05-02,,,"912, Solar Street, Jaipur",Installation Team A,Synthetic installation record 195
+,Cancelled,2025-07-12,,,"392, Solar Street, Delhi",Installation Team D,Synthetic installation record 196
+,Scheduled,2026-05-03,,,"521, Solar Street, Hyderabad",Installation Team D,Synthetic installation record 197
+,Scheduled,2026-04-25,,,"307, Solar Street, Vijayawada",Installation Team D,Synthetic installation record 198
+,In Progress,2026-01-20,2026-01-25,,"321, Solar Street, Delhi",Installation Team D,Synthetic installation record 199
+,Completed,2025-10-15,2025-10-21,2025-11-03,"180, Solar Street, Bengaluru",Installation Team D,Synthetic installation record 200
+,Completed,2025-08-03,2025-08-09,2025-08-21,"754, Solar Street, Ahmedabad",Installation Team A,Synthetic installation record 201
+,In Progress,2025-05-02,2025-05-07,,"704, Solar Street, Jaipur",Installation Team A,Synthetic installation record 202
+,Completed,2025-12-05,2025-12-08,2025-12-09,"371, Solar Street, Bengaluru",Installation Team B,Synthetic installation record 203
+,On Hold,2025-12-02,2025-12-09,,"540, Solar Street, Pune",Installation Team A,Synthetic installation record 204
+,Scheduled,2025-03-19,,,"46, Solar Street, Ahmedabad",Installation Team C,Synthetic installation record 205
+,On Hold,2025-10-15,2025-10-16,,"871, Solar Street, Jaipur",Installation Team D,Synthetic installation record 206
+,Scheduled,2025-04-12,,,"453, Solar Street, Delhi",Installation Team C,Synthetic installation record 207
+,Completed,2025-05-23,2025-05-27,2025-06-01,"333, Solar Street, Bengaluru",Installation Team B,Synthetic installation record 208
+,In Progress,2025-10-19,2025-10-20,,"696, Solar Street, Delhi",Installation Team A,Synthetic installation record 209
+,On Hold,2026-04-30,2026-05-07,,"932, Solar Street, Kochi",Installation Team B,Synthetic installation record 210
+,Cancelled,2026-08-26,,,"537, Solar Street, Bengaluru",Installation Team D,Synthetic installation record 211
+,Cancelled,2025-12-25,,,"357, Solar Street, Kochi",Installation Team D,Synthetic installation record 212
+,On Hold,2025-06-26,2025-07-01,,"733, Solar Street, Jaipur",Installation Team C,Synthetic installation record 213
+,On Hold,2025-06-08,2025-06-12,,"12, Solar Street, Hyderabad",Installation Team C,Synthetic installation record 214
+,Cancelled,2026-05-03,,,"946, Solar Street, Ahmedabad",Installation Team D,Synthetic installation record 215
+,Completed,2025-08-25,2025-08-26,2025-08-29,"806, Solar Street, Vijayawada",Installation Team A,Synthetic installation record 216
+,Scheduled,2026-07-02,,,"821, Solar Street, Ahmedabad",Installation Team A,Synthetic installation record 217
+,In Progress,2026-10-11,2026-10-13,,"231, Solar Street, Delhi",Installation Team B,Synthetic installation record 218
+,In Progress,2026-11-04,2026-11-11,,"808, Solar Street, Ahmedabad",Installation Team C,Synthetic installation record 219
+,In Progress,2025-02-08,2025-02-12,,"482, Solar Street, Jaipur",Installation Team A,Synthetic installation record 220
+,In Progress,2026-09-20,2026-09-27,,"370, Solar Street, Kochi",Installation Team B,Synthetic installation record 221
+,Cancelled,2025-05-09,,,"5, Solar Street, Chennai",Installation Team A,Synthetic installation record 222
+,Completed,2026-08-11,2026-08-15,2026-08-26,"169, Solar Street, Ahmedabad",Installation Team A,Synthetic installation record 223
+,Cancelled,2025-03-24,,,"674, Solar Street, Mumbai",Installation Team D,Synthetic installation record 224
+,On Hold,2025-11-28,2025-12-02,,"359, Solar Street, Vijayawada",Installation Team A,Synthetic installation record 225
+,In Progress,2026-08-20,2026-08-20,,"276, Solar Street, Mumbai",Installation Team D,Synthetic installation record 226
+,On Hold,2026-01-23,2026-01-26,,"353, Solar Street, Chennai",Installation Team D,Synthetic installation record 227
+,Completed,2025-11-24,2025-11-26,2025-11-28,"226, Solar Street, Chennai",Installation Team A,Synthetic installation record 228
+,Cancelled,2025-02-08,,,"605, Solar Street, Ahmedabad",Installation Team D,Synthetic installation record 229
+,On Hold,2026-04-12,2026-04-12,,"237, Solar Street, Hyderabad",Installation Team A,Synthetic installation record 230
+,Scheduled,2025-06-01,,,"159, Solar Street, Hyderabad",Installation Team D,Synthetic installation record 231
+,On Hold,2025-05-02,2025-05-05,,"992, Solar Street, Vijayawada",Installation Team C,Synthetic installation record 232
+,In Progress,2026-04-17,2026-04-20,,"436, Solar Street, Hyderabad",Installation Team A,Synthetic installation record 233
+,In Progress,2025-11-02,2025-11-05,,"640, Solar Street, Jaipur",Installation Team B,Synthetic installation record 234
+,On Hold,2026-10-06,2026-10-12,,"869, Solar Street, Pune",Installation Team B,Synthetic installation record 235
+,Cancelled,2026-03-09,,,"526, Solar Street, Chennai",Installation Team C,Synthetic installation record 236
+,In Progress,2025-06-14,2025-06-14,,"223, Solar Street, Bengaluru",Installation Team C,Synthetic installation record 237
+,In Progress,2026-07-05,2026-07-10,,"438, Solar Street, Chennai",Installation Team C,Synthetic installation record 238
+,Cancelled,2026-03-24,,,"670, Solar Street, Hyderabad",Installation Team D,Synthetic installation record 239
+,In Progress,2025-11-04,2025-11-07,,"338, Solar Street, Vijayawada",Installation Team D,Synthetic installation record 240
+,Completed,2025-05-22,2025-05-28,2025-06-05,"392, Solar Street, Delhi",Installation Team D,Synthetic installation record 241
+,Cancelled,2025-07-17,,,"271, Solar Street, Chennai",Installation Team A,Synthetic installation record 242
+,Cancelled,2025-06-28,,,"315, Solar Street, Vijayawada",Installation Team B,Synthetic installation record 243
+,In Progress,2025-02-20,2025-02-27,,"715, Solar Street, Vijayawada",Installation Team B,Synthetic installation record 244
+,Completed,2025-02-08,2025-02-15,2025-02-23,"120, Solar Street, Pune",Installation Team B,Synthetic installation record 245
+,Scheduled,2026-09-17,,,"798, Solar Street, Chennai",Installation Team C,Synthetic installation record 246
+,Completed,2025-07-18,2025-07-19,2025-07-31,"383, Solar Street, Chennai",Installation Team D,Synthetic installation record 247
+,Completed,2026-11-15,2026-11-16,2026-11-18,"561, Solar Street, Vijayawada",Installation Team D,Synthetic installation record 248
+,Completed,2025-03-25,2025-03-26,2025-04-03,"595, Solar Street, Jaipur",Installation Team C,Synthetic installation record 249
+,In Progress,2025-03-18,2025-03-25,,"350, Solar Street, Jaipur",Installation Team A,Synthetic installation record 250
+,Scheduled,2025-01-21,,,"912, Solar Street, Kochi",Installation Team A,Synthetic installation record 251
+,On Hold,2026-07-06,2026-07-13,,"880, Solar Street, Chennai",Installation Team C,Synthetic installation record 252
+,On Hold,2026-10-19,2026-10-25,,"306, Solar Street, Bengaluru",Installation Team B,Synthetic installation record 253
+,Completed,2026-02-07,2026-02-07,2026-02-21,"424, Solar Street, Delhi",Installation Team D,Synthetic installation record 254
+,In Progress,2025-03-27,2025-03-29,,"217, Solar Street, Delhi",Installation Team C,Synthetic installation record 255
+,On Hold,2026-09-16,2026-09-18,,"768, Solar Street, Hyderabad",Installation Team D,Synthetic installation record 256
+,In Progress,2025-09-13,2025-09-14,,"854, Solar Street, Bengaluru",Installation Team A,Synthetic installation record 257
+,On Hold,2025-01-30,2025-02-05,,"37, Solar Street, Delhi",Installation Team C,Synthetic installation record 258
+,On Hold,2026-11-12,2026-11-14,,"696, Solar Street, Hyderabad",Installation Team B,Synthetic installation record 259
+,Cancelled,2025-11-23,,,"485, Solar Street, Chennai",Installation Team D,Synthetic installation record 260
+,Cancelled,2025-02-10,,,"954, Solar Street, Kochi",Installation Team B,Synthetic installation record 261
+,Cancelled,2025-04-29,,,"848, Solar Street, Vijayawada",Installation Team C,Synthetic installation record 262
+,Cancelled,2026-03-25,,,"82, Solar Street, Delhi",Installation Team B,Synthetic installation record 263
+,Cancelled,2025-07-17,,,"93, Solar Street, Delhi",Installation Team D,Synthetic installation record 264
+,Completed,2025-01-07,2025-01-14,2025-01-19,"486, Solar Street, Vijayawada",Installation Team C,Synthetic installation record 265
+,Completed,2026-01-30,2026-02-05,2026-02-18,"951, Solar Street, Jaipur",Installation Team D,Synthetic installation record 266
+,On Hold,2026-11-02,2026-11-05,,"736, Solar Street, Chennai",Installation Team B,Synthetic installation record 267
+,In Progress,2025-08-30,2025-09-03,,"984, Solar Street, Ahmedabad",Installation Team C,Synthetic installation record 268
+,In Progress,2025-11-09,2025-11-14,,"638, Solar Street, Bengaluru",Installation Team B,Synthetic installation record 269
+,Cancelled,2026-05-09,,,"38, Solar Street, Kochi",Installation Team A,Synthetic installation record 270
+,On Hold,2025-02-16,2025-02-22,,"592, Solar Street, Chennai",Installation Team B,Synthetic installation record 271
+,In Progress,2025-09-15,2025-09-16,,"817, Solar Street, Mumbai",Installation Team C,Synthetic installation record 272
+,In Progress,2025-02-10,2025-02-17,,"440, Solar Street, Ahmedabad",Installation Team B,Synthetic installation record 273
+,Cancelled,2026-02-24,,,"836, Solar Street, Ahmedabad",Installation Team C,Synthetic installation record 274
+,On Hold,2025-08-08,2025-08-11,,"360, Solar Street, Mumbai",Installation Team A,Synthetic installation record 275
+,Cancelled,2025-09-21,,,"922, Solar Street, Mumbai",Installation Team A,Synthetic installation record 276
+,Scheduled,2025-11-04,,,"674, Solar Street, Kochi",Installation Team A,Synthetic installation record 277
+,In Progress,2026-01-13,2026-01-17,,"37, Solar Street, Bengaluru",Installation Team C,Synthetic installation record 278
+,In Progress,2025-12-04,2025-12-04,,"329, Solar Street, Chennai",Installation Team D,Synthetic installation record 279
+,Scheduled,2026-05-25,,,"511, Solar Street, Pune",Installation Team B,Synthetic installation record 280
+,Completed,2025-06-02,2025-06-09,2025-06-16,"391, Solar Street, Kochi",Installation Team C,Synthetic installation record 281
+,In Progress,2025-01-18,2025-01-19,,"896, Solar Street, Vijayawada",Installation Team D,Synthetic installation record 282
+,Scheduled,2026-04-20,,,"126, Solar Street, Mumbai",Installation Team A,Synthetic installation record 283
+,Completed,2025-03-20,2025-03-26,2025-04-07,"268, Solar Street, Jaipur",Installation Team B,Synthetic installation record 284
+,Cancelled,2025-10-17,,,"787, Solar Street, Hyderabad",Installation Team A,Synthetic installation record 285
+,Completed,2025-05-12,2025-05-17,2025-05-30,"525, Solar Street, Chennai",Installation Team C,Synthetic installation record 286
+,Completed,2026-02-06,2026-02-09,2026-02-13,"436, Solar Street, Hyderabad",Installation Team A,Synthetic installation record 287
+,In Progress,2025-02-06,2025-02-12,,"565, Solar Street, Hyderabad",Installation Team A,Synthetic installation record 288
+,Cancelled,2025-06-22,,,"931, Solar Street, Pune",Installation Team D,Synthetic installation record 289
+,Scheduled,2025-06-27,,,"423, Solar Street, Jaipur",Installation Team D,Synthetic installation record 290
+,In Progress,2025-06-24,2025-06-29,,"507, Solar Street, Vijayawada",Installation Team A,Synthetic installation record 291
+,Completed,2025-07-21,2025-07-25,2025-08-05,"104, Solar Street, Chennai",Installation Team D,Synthetic installation record 292
+,Cancelled,2026-05-16,,,"596, Solar Street, Jaipur",Installation Team D,Synthetic installation record 293
+,Completed,2026-06-12,2026-06-16,2026-06-30,"354, Solar Street, Pune",Installation Team B,Synthetic installation record 294
+,Cancelled,2025-09-05,,,"379, Solar Street, Chennai",Installation Team A,Synthetic installation record 295
+,In Progress,2025-03-21,2025-03-24,,"546, Solar Street, Chennai",Installation Team A,Synthetic installation record 296
+,Scheduled,2025-05-22,,,"71, Solar Street, Pune",Installation Team B,Synthetic installation record 297
+,In Progress,2025-07-05,2025-07-08,,"88, Solar Street, Ahmedabad",Installation Team A,Synthetic installation record 298
+,On Hold,2026-06-02,2026-06-08,,"668, Solar Street, Kochi",Installation Team A,Synthetic installation record 299

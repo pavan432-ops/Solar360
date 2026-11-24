@@ -1,0 +1,14 @@
+Trace_ID,Business_Problem_ID,Stakeholder_ID,Functional_Requirement_ID,Business_Rule_ID,Requirement_Description,Priority,Status
+TR001,BP01,SH01,FR003,BR001,Centralized lead creation and tracking,High,Draft
+TR002,BP01,SH02,FR004,BR001,Unique identification of every lead,High,Draft
+TR003,BP01,SH02,FR005,BR002,Assign each lead to one active sales executive,High,Draft
+TR004,BP01,SH03,FR006,BR004,Track lead follow-up activities,High,Draft
+TR005,BP01,SH03,FR007,BR004,Identify overdue lead follow-ups,High,Draft
+TR006,BP02,SH04,FR009,BR006,Schedule site inspections against existing leads,High,Draft
+TR007,BP02,SH04,FR010,BR007,Track inspection schedules and outcomes,High,Draft
+TR008,BP04,SH05,FR011,BR008,Schedule installations after quotation approval,High,Draft
+TR009,BP04,SH05,FR012,BR009,Track installation progress and delays,High,Draft
+TR010,BP05,SH06,FR013,BR010,Create and track customer support tickets,Medium,Draft
+TR011,BP05,SH06,FR014,BR011,Track support ticket resolution,Medium,Draft
+TR012,BP06,SH07,FR015,BR009,Provide management performance reporting,High,Draft
+TR013,BP03,SH08,FR001,BR012,Maintain complete customer registration details,High,Draft

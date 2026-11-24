@@ -1,0 +1,9 @@
+Stakeholder_ID,Stakeholder_Role,Requirement_ID,Business_Requirement,Identified_Problem,Expected_Outcome,Priority,Validation_Status
+SH01,Operations Manager,REQ001,Centralized lead tracking,Fragmented lead information,Single source of lead information,High,Pending
+SH02,Sales Executive,REQ002,Lead assignment tracking,Duplicate customer contact,Clear lead ownership,High,Pending
+SH03,Sales Executive,REQ003,Follow-up activity tracking,Missed customer follow-ups,Timely follow-ups,High,Pending
+SH04,Site Engineer,REQ004,Inspection scheduling,Inspection delays,Visible inspection schedules,High,Pending
+SH05,Operations Manager,REQ005,Installation status tracking,Limited installation visibility,Track installation progress,High,Pending
+SH06,Support Executive,REQ006,Support ticket management,Untracked customer complaints,Structured issue resolution,Medium,Pending
+SH07,Product Manager,REQ007,Product performance reporting,Limited business insights,Performance monitoring,High,Pending
+SH08,Customer,REQ008,Customer application status,Limited status visibility,Transparent installation progress,Medium,Pending

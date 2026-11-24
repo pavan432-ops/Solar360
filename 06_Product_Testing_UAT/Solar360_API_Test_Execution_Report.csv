@@ -1,0 +1,14 @@
+Test_ID,Module,Endpoint,Test_Scenario,Test_Data,Expected_Result,Actual_Result,HTTP_Status,Status
+API-001,Customer,GET /api/v1/customers/,Retrieve all customers,Existing customer records,Customer list returned,Customer records retrieved successfully,200,PASS
+API-002,Customer,GET /api/v1/customers/1,Retrieve customer by ID,customer_id=1,Customer details returned,Rahul Sharma record retrieved,200,PASS
+API-003,Customer,POST /api/v1/customers/,Register new customer,Demo Customer / 9198765432,Customer registered,Customer ID 2003 created successfully,201,PASS
+API-004,Customer,PUT /api/v1/customers/1,Update customer,Restore Rahul Sharma details,Customer updated,Customer updated successfully,200,PASS
+API-005,Customer,POST /api/v1/customers/,Reject duplicate phone,phone=9123456780,Return duplicate phone error,Customer phone number already exists,409,PASS
+API-006,Customer,POST /api/v1/customers/,Reject empty customer name,customer_name="",Return validation error,Minimum length validation triggered,422,PASS
+API-007,Customer,GET /api/v1/customers/99999,Retrieve nonexistent customer,customer_id=99999,Return customer not found,Customer not found,404,PASS
+API-008,Customer,PUT /api/v1/customers/2003,Reject duplicate phone during update,phone=9876500001,Return duplicate phone error,Customer phone number already exists,409,PASS
+API-009,Customer,GET /api/v1/customers/2003,Verify data integrity after failed update,customer_id=2003,Original record unchanged,Original phone 9198765432 retained,200,PASS
+API-010,System,GET /api/v1/health,Check API health,None,Healthy response returned,Solar360 API working successfully,200,PASSAPI-013,Lead,PUT /api/v1/leads/3007,Update lead details,"Referral; Converted; 2026-12-05; Executive 1",Lead details updated,Lead updated and verified using GET,200,PASS
+"API-013","Lead","PUT /api/v1/leads/3007","Update lead details","Referral; Converted; 2026-12-05; Executive 1","Lead details updated","Lead updated and verified using GET","200","PASS"
+"API-014","Lead","PUT /api/v1/leads/99999","Update nonexistent lead","lead_id=99999","Return Lead not found","Lead not found","404","PASS"
+"API-015","Lead","PUT /api/v1/leads/3007","Reject invalid sales executive ID","executive_id=99999","Return invalid sales executive reference","Invalid sales executive reference","400","PASS"
