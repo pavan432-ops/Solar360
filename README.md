@@ -238,3 +238,60 @@ Do not commit database credentials or the .env file to GitHub.
 - Complete release documentation and deployment planning.
 
 Project status: Working portfolio prototype – ongoing.
+
+## Business Process Diagrams
+
+### As-Is Process
+![Solar360 As-Is Process Flow](10_Diagrams/Solar360_As-Is_Process_Flow.png)
+
+### To-Be Process
+![Solar360 To-Be Process Flow](10_Diagrams/Solar360_To-Be_Process_Flow.png)
+
+## Dashboard Visualizations
+
+The following charts are generated from the Solar360 synthetic MySQL datasets using Python and Plotly.
+
+### 1. Lead Performance
+
+![Leads by Status](10_Diagrams/Dashboard_Charts/01_Leads_by_Status.png)
+
+![Lead Source Distribution](10_Diagrams/Dashboard_Charts/02_Lead_Source_Distribution.png)
+
+### 2. Site Inspection Analysis
+
+![Inspections by Status](10_Diagrams/Dashboard_Charts/03_Inspections_by_Status.png)
+
+![Inspections by Property Type](10_Diagrams/Dashboard_Charts/04_Inspections_by_Property_Type.png)
+
+### 3. Quotation Analysis
+
+![Quotations by Status](10_Diagrams/Dashboard_Charts/05_Quotations_by_Status.png)
+
+![Quotation Value by Status](10_Diagrams/Dashboard_Charts/06_Quotation_Value_by_Status.png)
+
+### 4. Installation Performance
+
+![Installations by Status](10_Diagrams/Dashboard_Charts/07_Installations_by_Status.png)
+
+![Solar Capacity by Status](10_Diagrams/Dashboard_Charts/08_Solar_Capacity_by_Status.png)
+
+### 5. Customer Support and Feedback
+
+![Support Tickets by Status](10_Diagrams/Dashboard_Charts/09_Support_Tickets_by_Status.png)
+
+![Feedback by Category](10_Diagrams/Dashboard_Charts/10_Feedback_by_Category.png)
+
+## System Architecture Diagram
+
+```mermaid
+flowchart TD
+    A["Business Analysis<br/>BRD, FRD, PRD, RTM"] --> B["Requirements & Process Design"]
+    B --> C["Agile Planning<br/>Jira & Sprint Planning"]
+    C --> D["FastAPI Backend<br/>Customer & Lead APIs"]
+    D --> E[("MySQL Database")]
+    E --> F["Python & Streamlit Dashboard"]
+    F --> G["Plotly Charts & KPIs"]
+    G --> H["Management Insights"]
+```
+
+Note: Customer and Lead APIs are implemented. The dashboard reads the available business datasets directly from MySQL.
